@@ -1,0 +1,13 @@
+API_URL=https://aerodatabox.p.rapidapi.com/flights/airports/iata/{airport}/{from_local}/{to_local}
+#API_URL=https://api.aerodatabox.com/flights/airports/iata/{airport}/{from_local}/{to_local}
+#API_KEY=a05c9d1c73msh07be8da363b7e57p1b4fe9jsn033ea5031631
+#API_KEY=04295aa2d8msh5990f347ef72a2dp15e487jsnd37ad6d52012
+#API_HOST=//aerodatabox.p.rapidapi.com/
+API_KEY=80da581ec5msh1fe27ddeac1d64fp1c39dbjsn994b1e13b9c2
+API_HOST=aerodatabox.p.rapidapi.com
+OUTPUT_FOLDER=/home/progetto-optimist/avio/aerodatabox/output/
+INPUT_FILE=/home/progetto-optimist/avio/aerodatabox/input.txt
+WEBHOOK=https://defaultc16e514b893e4a019a30b8fef514a6.50.environment.api.powerplatform.com:443/powerautomate/automations/direct/cu/16/workflows/5360e641354c435db892b877e93f76c1/triggers/manual/paths/invoke?api-version=1&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=GrW-E3_6mQ1Mp2hMqOIAm6-WlZERL764h-4vJ25D7Ng
+MAIL_TO=efisio.gigliotti@enilive.com
+#airlabs
+
