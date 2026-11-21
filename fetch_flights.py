@@ -1,249 +1,164 @@
-import argparse
-import csv
-from datetime import datetime
-import os
-import requests
+#!/bin/bash
 
+# Definizione delle directory e del template
+BASE_DIR="/home/progetto-optimist/avio"
+AERODATABOX_DIR="$BASE_DIR/aerodatabox"
+CONFIG_FILE="$AERODATABOX_DIR/config.txt"
+TEMPLATE_FILE="$HOME/Templates/TEMPLATE-ENILIVE.html"
+SAVED_MAILS_DIR="$AERODATABOX_DIR/sent_emails"
 
-def load_config(config_path="config.txt"):
-  config = {}
-  if not os.path.exists(config_path):
-    raise FileNotFoundError(f"Config file '{config_path}' not found.")
-  with open(config_path, "r") as f:
-    for line in f:
-      line = line.strip()
-      if line and not line.startswith("#"):
-        key, val = line.split("=", 1)
-        config[key.strip()] = val.strip()
-  return config
+SEND_MAIL=true
+EXPLICIT_DATE=""
 
+# Parsing degli argomenti (--no-mail opzionale, oppure una data YYYY-MM-DD opzionale)
+for arg in "$@"; do
+    case "$arg" in
+        --no-mail)
+            SEND_MAIL=false
+            ;;
+        *)
+            EXPLICIT_DATE="$arg"
+            ;;
+    esac
+done
 
-def load_airports(input_path):
-  if not os.path.exists(input_path):
-    raise FileNotFoundError(f"Input file '{input_path}' not found.")
-  airports = []
-  with open(input_path, "r") as f:
-    for line in f:
-      code = line.strip()
-      if code:
-        airports.append(code)
-  return airports
+mkdir -p "$SAVED_MAILS_DIR"
 
+# Verifica esistenza dei file necessari
+if [ ! -f "$CONFIG_FILE" ]; then
+    echo "Errore: file di configurazione non trovato: $CONFIG_FILE"
+    exit 1
+fi
 
-def fetch_departures_slot(
-    airport, from_str, to_str, api_url_template, api_key, api_host
-):
-  """Fetches departures for a single 12-hour window, supporting both Direct and
+if [ ! -f "$TEMPLATE_FILE" ]; then
+    echo "Errore: template HTML non trovato: $TEMPLATE_FILE"
+    exit 1
+fi
 
-  RapidAPI routing automatically based on config.
-  """
-  url = api_url_template.format(
-      airport=airport, from_local=from_str, to_local=to_str
-  )
+# Spostamento nella cartella di lavoro
+cd "$AERODATABOX_DIR" || {
+    echo "Directory $AERODATABOX_DIR non trovata!"
+    exit 1
+}
 
-  params = {"direction": "Departure", "withLeg": "true", "withCancelled": "true"}
+# Legge MAIL_TO da config.txt
+MAIL_TO=$(grep -E '^[[:space:]]*MAIL_TO[[:space:]]*=' "$CONFIG_FILE" | head -n 1 | cut -d'=' -f2- | xargs)
 
-  # Determine authentication headers based on whether API_HOST is provided
-  if api_host:
-    headers = {"x-rapidapi-key": api_key, "x-rapidapi-host": api_host}
-  else:
-    headers = {"X-API-Key": api_key}
+if [ -z "$MAIL_TO" ]; then
+    echo "Errore: MAIL_TO non trovato o vuoto in $CONFIG_FILE"
+    exit 1
+fi
 
-  response = requests.get(url, headers=headers, params=params)
-  if response.status_code != 200:
-    print(
-        f"Error fetching {airport} ({from_str} to {to_str}):"
-        f" {response.status_code} - {response.text}"
-    )
-    return []
+# Costruisce la lista delle date da elaborare:
+# - se viene passata una data esplicita (es. ./run_aerodatabox.sh 2026-11-20), usa solo quella
+# - altrimenti elabora da ieri (-1 giorno) fino a +7 giorni
+DATES_TO_PROCESS=()
 
-  data = response.json()
-  return data.get("departures", [])
+if [ -n "$EXPLICIT_DATE" ]; then
+    DATES_TO_PROCESS+=("$EXPLICIT_DATE")
+    echo "Starting flight fetch for provided date: $EXPLICIT_DATE"
+else
+    echo "No date provided. Processing range from yesterday (-1d) to +7 days..."
+    for offset in $(seq -1 7); do
+        if [ "$offset" -lt 0 ]; then
+            d=$(date -d "$((-offset)) days ago" +%Y-%m-%d)
+        else
+            d=$(date -d "+${offset} days" +%Y-%m-%d)
+        fi
+        DATES_TO_PROCESS+=("$d")
+    done
+fi
 
+# Elaborazione per ciascuna data
+for TARGET_DATE in "${DATES_TO_PROCESS[@]}"; do
+    echo "=========================================="
+    echo "Elaborazione data: $TARGET_DATE"
+    echo "=========================================="
 
-def fetch_full_day_departures(
-    airport, date_str, api_url_template, api_key, api_host
-):
-  """AeroDataBox limits queries to 12-hour windows.
+    PY_OUT=$(python3 fetch_flights.py --date "$TARGET_DATE" 2>&1)
+    FETCH_STATUS=$?
 
-  Splits the day into 00:00-11:59 and 12:00-23:59.
-  """
-  slot1_from = f"{date_str}T00:00"
-  slot1_to = f"{date_str}T11:59"
+    echo "$PY_OUT"
 
-  slot2_from = f"{date_str}T12:00"
-  slot2_to = f"{date_str}T23:59"
+    if [ "$FETCH_STATUS" -ne 0 ]; then
+        echo "Errore durante l'esecuzione di fetch_flights.py per la data $TARGET_DATE"
+        continue
+    fi
 
-  flights_slot1 = fetch_departures_slot(
-      airport, slot1_from, slot1_to, api_url_template, api_key, api_host
-  )
-  flights_slot2 = fetch_departures_slot(
-      airport, slot2_from, slot2_to, api_url_template, api_key, api_host
-  )
+    # Estrae tutti i percorsi dei file CSV generati
+    GENERATED_FILES=$(echo "$PY_OUT" | grep "Successfully saved" | sed -E 's/.* to //')
 
-  return flights_slot1 + flights_slot2
+    if [ -z "$GENERATED_FILES" ]; then
+        echo "Nessun file generato da fetch_flights.py per $TARGET_DATE. Nessuna email inviata."
+        continue
+    fi
 
+    # Per ogni file CSV generato
+    while IFS= read -r CSV_FILE; do
+        # Rimuove eventuale \r o spazi esterni
+        CSV_FILE=$(echo "$CSV_FILE" | tr -d '\r' | xargs)
 
-def send_teams_notification(webhook_url, message):
-  """Invia una notifica al canale Teams tramite il webhook di Power Automate."""
-  if not webhook_url:
-    return
+        if [ -z "$CSV_FILE" ] || [ ! -f "$CSV_FILE" ]; then
+            echo "File non trovato: $CSV_FILE"
+            continue
+        fi
 
-  try:
-    payload = {"text": message}
-    response = requests.post(webhook_url, json=payload, timeout=10)
-    if response.status_code in [200, 202]:
-      print("Notifica inviata con successo a Teams.")
-    else:
-      print(
-          f"Errore nell'invio della notifica Teams: {response.status_code} -"
-          f" {response.text}"
-      )
-  except Exception as e:
-    print(f"Eccezione durante l'invio della notifica Webhook: {e}")
+        # Ricava il deposito dal nome file
+        # Esempio: flights_GOA_2026-11-12.csv -> GOA
+        FILENAME=$(basename "$CSV_FILE")
+        DEPOSITO=$(echo "$FILENAME" | sed -E 's/^flights_([^_]+)_.*/\1/')
 
+        TIMESTAMP=$(date +%H%M%S)
+        SUBJECT="Estrazione Aerodatabox del $TARGET_DATE"
 
-def main():
-  parser = argparse.ArgumentParser(
-      description=(
-          "Fetch daily flight departures from AeroDataBox API into separate"
-          " files per airport."
-      )
-  )
-  parser.add_argument(
-      "--date",
-      type=str,
-      default=datetime.now().strftime("%Y-%m-%d"),
-      help="Date in YYYY-MM-DD format (defaults to today)",
-  )
-  parser.add_argument(
-      "--config", type=str, default="config.txt", help="Path to config file"
-  )
-  parser.add_argument(
-      "--notify",
-      action="store_true",
-      help="Invia una notifica Teams a fine elaborazione tramite webhook",
-  )
+        # Testo dinamico da inserire nel template
+        BODY_TEXT="In allegato estrazione per deposito di \"${DEPOSITO}\" per la giornata di \"${TARGET_DATE}\""
 
-  args = parser.parse_args()
+        SAVED_HTM="$SAVED_MAILS_DIR/Estrazione_Aerodatabox_${DEPOSITO}_${TARGET_DATE}_${TIMESTAMP}.html"
 
-  try:
-    config = load_config(args.config)
-    input_path = config.get("INPUT_FILE", "input.txt")
-    output_dir = config.get("OUTPUT_FOLDER", ".")
-    webhook_url = config.get("WEBHOOK_URL")
-    airports = load_airports(input_path)
-  except Exception as e:
-    print(f"Configuration error: {e}")
-    return
+        # Genera il file HTML:
+        # - rimuove eventuali intestazioni From/To/Date/Subject
+        # - sostituisce ESATTAMENTE "Lore ipsum docet"
+        sed -E '/(From|To|Date|Subject)[[:space:]]*:/d' "$TEMPLATE_FILE" \
+            | BODY_TEXT="$BODY_TEXT" perl -0pe 's/Lore ipsum docet/$ENV{BODY_TEXT}/g' \
+            > "$SAVED_HTM"
 
-  api_url_template = config.get("API_URL")
-  api_key = config.get("API_KEY")
-  api_host = config.get("API_HOST")
+        echo "File HTML salvato in: $SAVED_HTM"
 
-  if not api_url_template or not api_key:
-    print("Error: API_URL and API_KEY must be defined in config.txt")
-    return
+        # Verifica che il testo segnaposto sia stato sostituito
+        if grep -qF "Lore ipsum docet" "$SAVED_HTM"; then
+            echo "ERRORE: il testo segnaposto è ancora presente nel template."
+            echo "Email non inviata per il deposito $DEPOSITO ($TARGET_DATE)."
+            continue
+        fi
 
-  # Ensure output directory exists
-  os.makedirs(output_dir, exist_ok=True)
+        # Verifica che il testo dinamico sia presente
+        if ! grep -qF "In allegato estrazione per deposito di" "$SAVED_HTM"; then
+            echo "ERRORE: testo dinamico non trovato nel file HTML."
+            echo "Email non inviata per il deposito $DEPOSITO ($TARGET_DATE)."
+            continue
+        fi
 
-  fieldnames = [
-      "airport",
-      "date",
-      "direction",
-      "flight_number",
-      "callsign",
-      "airline",
-      "destination_iata",
-      "destination_name",
-      "departure_time",
-      "arrival_time",
-      "scheduled_time",
-      "revised_time",
-      "status",
-  ]
+        if [ "$SEND_MAIL" = false ]; then
+            echo "Flag --no-mail attivo: invio email saltato per $DEPOSITO ($TARGET_DATE)."
+            continue
+        fi
 
-  successful_airports = []
+        # Invia l'email HTML con Mutt allegando il CSV
+        mutt -e "set content_type=text/html" \
+             -s "$SUBJECT" \
+             -a "$CSV_FILE" \
+             -- "$MAIL_TO" < "$SAVED_HTM"
 
-  for airport in airports:
-    print(f"Fetching departures for {airport} on {args.date}...")
-    flights = fetch_full_day_departures(
-        airport, args.date, api_url_template, api_key, api_host
-    )
+        MUTT_STATUS=$?
 
-    if not flights:
-      print(f"No flight data retrieved for {airport}.")
-      continue
+        if [ "$MUTT_STATUS" -eq 0 ]; then
+            echo "Comando Mutt completato per $MAIL_TO, deposito $DEPOSITO ($TARGET_DATE)."
+        else
+            echo "Errore durante l'invio con Mutt per il deposito $DEPOSITO ($TARGET_DATE)."
+        fi
 
-    # Create separate filename per airport with code as suffix before date
-    output_filename = os.path.join(
-        output_dir, f"flights_{airport}_{args.date}.csv"
-    )
+    done <<< "$GENERATED_FILES"
+done
 
-    airport_flights = []
-    for flight in flights:
-      airline = flight.get("airline", {})
-      dest = flight.get("movement", {}).get("airport", {})
-
-      movement = flight.get("movement", {})
-      scheduled_time = movement.get("scheduledTime", {}).get("local")
-      revised_time = movement.get("revisedTime", {}).get("local")
-      departure_time = revised_time if revised_time else scheduled_time
-
-      arrival_info = flight.get("arrival", {})
-      arr_scheduled = arrival_info.get("scheduledTime", {}).get("local")
-      arr_revised = arrival_info.get("revisedTime", {}).get("local")
-      arrival_time = arr_revised if arr_revised else arr_scheduled
-
-      row = {
-          "airport": airport,
-          "date": args.date,
-          "direction": "Departure",
-          "flight_number": flight.get("number"),
-          "callsign": flight.get("callSign"),
-          "airline": airline.get("name") if isinstance(airline, dict) else "",
-          "destination_iata": dest.get("iata") if isinstance(dest, dict) else "",
-          "destination_name": dest.get("name")
-          if isinstance(dest, dict)
-          else "",
-          "departure_time": departure_time,
-          "arrival_time": arrival_time,
-          "scheduled_time": scheduled_time,
-          "revised_time": revised_time,
-          "status": flight.get("status"),
-      }
-      airport_flights.append(row)
-
-    # Write data out to the airport's specific CSV file
-    with open(
-        output_filename, mode="w", newline="", encoding="utf-8"
-    ) as csv_file:
-      writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
-      writer.writeheader()
-      for flight_row in airport_flights:
-        writer.writerow(flight_row)
-
-    print(
-        f"Successfully saved {len(airport_flights)} flights to"
-        f" {output_filename}"
-    )
-    successful_airports.append(f"{airport} ({len(airport_flights)} voli)")
-
-  # Send Teams notification if requested and configured
-  if args.notify and successful_airports:
-    if webhook_url:
-      summary_text = (
-          f"✈️ **AeroDataBox Report - {args.date}**\nFile CSV generati con"
-          f" successo per gli aeroporti: {', '.join(successful_airports)}"
-      )
-      send_teams_notification(webhook_url, summary_text)
-    else:
-      print(
-          "Flag --notify attivo, ma WEBHOOK_URL non è definito nel file di"
-          " configurazione."
-      )
-
-
-if __name__ == "__main__":
-  main()
+echo "Job finished."
