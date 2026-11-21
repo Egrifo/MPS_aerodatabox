@@ -1,0 +1,17 @@
+airport,date,direction,flight_number,callsign,airline,destination_iata,destination_name,departure_time,arrival_time,scheduled_time,revised_time,status
+SUF,2026-11-10,Departure,FR 1418,,Ryanair,,,,2026-11-10 07:40+01:00,,,Unknown
+SUF,2026-11-10,Departure,AZ 1162,ITY1162,ITA,,,,2026-11-10 07:20+01:00,,,Departed
+SUF,2026-11-10,Departure,AZ 1176,ITY1176,ITA,,,,2026-11-10 07:41+01:00,,,Departed
+SUF,2026-11-10,Departure,W4 6262,WMT709,Wizz Air Malta,,,,2026-11-10 08:49+01:00,,,Departed
+SUF,2026-11-10,Departure,U2 3560,EJU49KH,easyJet,,,,2026-11-10 11:37+01:00,,,Departed
+SUF,2026-11-10,Departure,FR 1435,RYR798U,Ryanair,,,,2026-11-10 12:10+01:00,,,Departed
+SUF,2026-11-10,Departure,AZ 1168,ITY1168,ITA,,,,2026-11-10 12:40+01:00,,,Departed
+SUF,2026-11-10,Departure,AZ 1184,ITY1184,ITA,,,,2026-11-10 17:01+01:00,,,Departed
+SUF,2026-11-10,Departure,FR 3439,,Ryanair,,,,2026-11-10 18:05+01:00,,,Unknown
+SUF,2026-11-10,Departure,FR 1012,,Ryanair,,,,2026-11-10 18:25+01:00,,,Unknown
+SUF,2026-11-10,Departure,FR 936,,Ryanair,,,,2026-11-10 19:30+01:00,,,Unknown
+SUF,2026-11-10,Departure,AZ 1170,ITY1170,ITA,,,,2026-11-10 20:13+01:00,,,Departed
+SUF,2026-11-10,Departure,W4 7042,WMT9F,Wizz Air Malta,,,,2026-11-10 23:17+01:00,,,Departed
+SUF,2026-11-10,Departure,M4 94S,MSA94S,Poste Air Cargo,,,,2026-11-10 23:19+01:00,,,Departed
+SUF,2026-11-10,Departure,U2 3562,EJU38ZL,easyJet,,,,2026-11-10 23:00+01:00,,,Departed
+SUF,2026-11-10,Departure,FR 1437,RYR41QD,Ryanair,,,,2026-11-10 23:35+01:00,,,Departed

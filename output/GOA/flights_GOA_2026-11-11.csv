@@ -1,0 +1,11 @@
+airport,date,direction,flight_number,callsign,airline,destination_iata,destination_name,departure_time,arrival_time,scheduled_time,revised_time,status
+GOA,2026-11-11,Departure,AZ 1380,ITY1380,ITA,,,,2026-11-11 07:50+01:00,,,Departed
+GOA,2026-11-11,Departure,XZ 2424,AEZ2424,Aeroitalia,,,,2026-11-11 09:00+01:00,,,Departed
+GOA,2026-11-11,Departure,XZ 2424,AEZ2424,Aeroitalia,,,,2026-11-11 09:00+01:00,,,Departed
+GOA,2026-11-11,Departure,AZ 1384,ITY1384,ITA,,,,2026-11-11 12:25+01:00,,,Departed
+GOA,2026-11-11,Departure,W4 5084,,Wizz Air Malta,,,,2026-11-11 15:30+01:00,,,Unknown
+GOA,2026-11-11,Departure,KL 1646,KLC1646,KLM,,,,2026-11-11 16:01+01:00,,,Departed
+GOA,2026-11-11,Departure,AZ 1386,ITY1386,ITA,,,,2026-11-11 16:42+01:00,,,Departed
+GOA,2026-11-11,Departure,FR 9897,,Ryanair,,,,2026-11-11 17:20+01:00,,,Unknown
+GOA,2026-11-11,Departure,XZ 2426,AEZ2426,Aeroitalia,,,,2026-11-11 17:10+01:00,,,Departed
+GOA,2026-11-11,Departure,AZ 1392,ITY1392,ITA,,,,2026-11-11 20:19+01:00,,,Departed

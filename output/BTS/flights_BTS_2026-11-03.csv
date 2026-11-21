@@ -1,0 +1,33 @@
+airport,date,direction,flight_number,callsign,airline,destination_iata,destination_name,departure_time,arrival_time,scheduled_time,revised_time,status
+BTS,2026-11-03,Departure,QY 5534,BCS5534,EAT Leipzig,,,,2026-11-03 02:35+01:00,,,Departed
+BTS,2026-11-03,Departure,W6 7065,,Wizz Air,,,,2026-11-03 12:20+04:00,,,Unknown
+BTS,2026-11-03,Departure,W6 7001,WZZ9XU,Wizz Air,,,,2026-11-03 06:41+01:00,,,Departed
+BTS,2026-11-03,Departure,W6 2609,WZZ20CF,Wizz Air,,,,2026-11-03 10:10+00:00,,,Departed
+BTS,2026-11-03,Departure,W6 3215,WZZ3215,Wizz Air,,,,,,,Departed
+BTS,2026-11-03,Departure,W6 7862,,Wizz Air,,,,,,,Unknown
+BTS,2026-11-03,Departure,OMBYD,OMBYD,Unknown/Private owner,,,,,,,Departed
+BTS,2026-11-03,Departure,OMINA,OMINA,Unknown/Private owner,,,,,,,Departed
+BTS,2026-11-03,Departure,W6 7021,WZZ984,Wizz Air,,,,2026-11-03 11:50+01:00,,,Departed
+BTS,2026-11-03,Departure,FR 2853,RYR311W,Ryanair,,,,2026-11-03 11:20+01:00,,,Departed
+BTS,2026-11-03,Departure,OKLHE,OKLHE,Unknown/Private owner,,,,,,,Departed
+BTS,2026-11-03,Departure,OKLHE,OKLHE,Unknown/Private owner,,,,,,,Departed
+BTS,2026-11-03,Departure,W6 2633,WZZ3LH,Wizz Air,,,,2026-11-03 12:20+01:00,,,Departed
+BTS,2026-11-03,Departure,OMJGA,OMJGA,Unknown/Private owner,,,,,,,Departed
+BTS,2026-11-03,Departure,NJE 514E,NJE514E,NetJets Europe,,,,2026-11-03 12:37+01:00,,,Departed
+BTS,2026-11-03,Departure,FR 4225,RYR9QJ,Ryanair,,,,2026-11-03 13:44+01:00,,,Departed
+BTS,2026-11-03,Departure,W6 4626,WZZ12JH,Wizz Air,,,,2026-11-03 18:25+02:00,,,Departed
+BTS,2026-11-03,Departure,W6 6276,WZZ6276,Wizz Air,,,,,,,Departed
+BTS,2026-11-03,Departure,W6 4244,WZZ8FY,Wizz Air,,,,2026-11-03 16:05+01:00,,,Departed
+BTS,2026-11-03,Departure,FR 62,RYR14RD,Ryanair,,,,2026-11-03 16:03+00:00,,,Departed
+BTS,2026-11-03,Departure,C3 9423,TDR9423,Trade Air,,,,,,,Departed
+BTS,2026-11-03,Departure,W6 7045,,Wizz Air,,,,2026-11-03 17:05+01:00,,,Unknown
+BTS,2026-11-03,Departure,W6 7003,WZZ234,Wizz Air,,,,2026-11-03 16:27+01:00,,,Departed
+BTS,2026-11-03,Departure,W6 69,WZZ69,Wizz Air,,,,,,,Departed
+BTS,2026-11-03,Departure,W6 7061,WZZ9WB,Wizz Air,,,,2026-11-03 21:05+02:00,,,Departed
+BTS,2026-11-03,Departure,W6 7037,WZZ8WQ,Wizz Air,,,,2026-11-03 19:19+01:00,,,Departed
+BTS,2026-11-03,Departure,OKTCM,OKTCM,Unknown/Private owner,,,,,,,Departed
+BTS,2026-11-03,Departure,FR 2315,RYR35JF,Ryanair,,,,2026-11-03 20:10+00:00,,,Departed
+BTS,2026-11-03,Departure,QS 523P,TVS523P,SmartWings,,,,,,,Departed
+BTS,2026-11-03,Departure,AZ 8013,ITY8013,ITA Airways,,,,,,,Departed
+BTS,2026-11-03,Departure,W6 4762,WZZ574,Wizz Air,,,,2026-11-03 22:17+01:00,,,Departed
+BTS,2026-11-03,Departure,QY 13J,BCS13J,EAT Leipzig,,,,2026-11-03 23:20+01:00,,,Departed

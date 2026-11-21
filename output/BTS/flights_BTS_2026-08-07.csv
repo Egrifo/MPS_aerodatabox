@@ -1,0 +1,68 @@
+airport,date,direction,flight_number,callsign,airline,destination_iata,destination_name,departure_time,arrival_time,scheduled_time,revised_time,status
+BTS,2026-08-07,Departure,SEU 1064,SEU1064,SEU,,,,2026-08-07 02:28+02:00,,,Departed
+BTS,2026-08-07,Departure,QS 1514,TVS2D3,SmartWings,,,,2026-08-07 07:21+03:00,,,Departed
+BTS,2026-08-07,Departure,QS 1516,,SmartWings,,,,2026-08-07 06:36+03:00,,,Departed
+BTS,2026-08-07,Departure,QS 1516,,SmartWings,,,,2026-08-07 06:36+03:00,,,Departed
+BTS,2026-08-07,Departure,6D 6716,TVQ6716,Travel Service Slovensko,,,,,,,Departed
+BTS,2026-08-07,Departure,6D 6464,TVQ6464,Travel Service Slovensko,,,,,,,Departed
+BTS,2026-08-07,Departure,QS 1580,TVS9BH,SmartWings,,,,2026-08-07 08:20+03:00,,,Departed
+BTS,2026-08-07,Departure,W6 7023,WZZ7WM,Wizz Air,,,,2026-08-07 08:39+02:00,,,Departed
+BTS,2026-08-07,Departure,W6 7001,WZZ2447,Wizz Air,,,,2026-08-07 06:32+02:00,,,Departed
+BTS,2026-08-07,Departure,W6 7037,WZZ6072,Wizz Air,,,,2026-08-07 06:56+02:00,,,Departed
+BTS,2026-08-07,Departure,W6 7041,,Wizz Air,,,,2026-08-07 08:05+02:00,,,Unknown
+BTS,2026-08-07,Departure,FR 3639,RYR9HZ,Ryanair,,,,2026-08-07 07:54+02:00,,,Departed
+BTS,2026-08-07,Departure,FR 5719,RYR8AG,Ryanair,,,,2026-08-07 09:10+02:00,,,Departed
+BTS,2026-08-07,Departure,FR 2853,RYR10AD,Ryanair,,,,2026-08-07 09:05+02:00,,,Departed
+BTS,2026-08-07,Departure,W6 4762,WZZ4XM,Wizz Air,,,,2026-08-07 09:55+02:00,,,Departed
+BTS,2026-08-07,Departure,W6 7021,WZZ573,Wizz Air,,,,2026-08-07 11:18+02:00,,,Departed
+BTS,2026-08-07,Departure,W6 7017,WZZ5WS,Wizz Air,,,,2026-08-07 11:10+02:00,,,Departed
+BTS,2026-08-07,Departure,OKBRO,OKBRO,Unknown/Private owner,,,,,,,Departed
+BTS,2026-08-07,Departure,W6 7015,WZZ4DY,Wizz Air,,,,2026-08-07 13:00+02:00,,,Departed
+BTS,2026-08-07,Departure,6D 6450,TVQ6450,Travel Service Slovensko,,,,2026-08-07 11:39+01:00,,,Departed
+BTS,2026-08-07,Departure,VJT 683,VJT683,VistaJet,,,,,,,Departed
+BTS,2026-08-07,Departure,6D 6484,TVQ6484,Travel Service Slovensko,,,,2026-08-07 11:55+01:00,,,Departed
+BTS,2026-08-07,Departure,XC 9242,CAI3Y,Corendon Air,,,,2026-08-07 14:30+03:00,,,Departed
+BTS,2026-08-07,Departure,FH 784,FHY784,Freebird Airlines,,,,2026-08-07 14:37+03:00,,,Departed
+BTS,2026-08-07,Departure,FR 3637,RYR252D,Ryanair,,,,2026-08-07 12:40+02:00,,,Departed
+BTS,2026-08-07,Departure,AXY 394Y,AXY394Y,AIR X Charter,,,,,,,Departed
+BTS,2026-08-07,Departure,VCJ 1MA,VCJ1MA,VCJ,,,,,,,Departed
+BTS,2026-08-07,Departure,6D 6168,TVQ6168,Travel Service Slovensko,,,,2026-08-07 15:22+03:00,,,Departed
+BTS,2026-08-07,Departure,FR 6828,RYR4YP,Ryanair,,,,2026-08-07 15:09+03:00,,,Departed
+BTS,2026-08-07,Departure,MGH 536,MGH536,MGH,,,,,,,Departed
+BTS,2026-08-07,Departure,FR 4219,,Ryanair,,,,2026-08-07 17:59+01:00,,,Departed
+BTS,2026-08-07,Departure,W6 7031,WZZ5WE,Wizz Air,,,,2026-08-07 17:52+02:00,,,Departed
+BTS,2026-08-07,Departure,FR 5733,RYR38MM,Ryanair,,,,2026-08-07 14:55+02:00,,,Departed
+BTS,2026-08-07,Departure,FR 4225,RYR1AE,Ryanair,,,,2026-08-07 17:21+02:00,,,Departed
+BTS,2026-08-07,Departure,QU 4277,UTN4277,Azur Air Ukraine,,,,2026-08-07 19:35+03:00,,,Departed
+BTS,2026-08-07,Departure,W6 7011,WZZ5495,Wizz Air,,,,,,,Departed
+BTS,2026-08-07,Departure,PC 412,PGT27WD,Pegasus,,,,2026-08-07 17:50+03:00,,,Departed
+BTS,2026-08-07,Departure,FR 5889,RYR5889,Ryanair,,,,2026-08-07 17:55+03:00,,,Departed
+BTS,2026-08-07,Departure,GDK 47Z,GDK47Z,GDK,,,,2026-08-07 16:17+02:00,,,Departed
+BTS,2026-08-07,Departure,HT 6052,HAT6052,Air Horizont,,,,,,,Departed
+BTS,2026-08-07,Departure,W6 7003,,Wizz Air,,,,2026-08-07 16:45+02:00,,,Unknown
+BTS,2026-08-07,Departure,W4 3996,WMT534,Wizz Air Malta,,,,2026-08-07 18:25+03:00,,,Departed
+BTS,2026-08-07,Departure,BQ 2391,,SkyAlps SRL,,,,2026-08-07 17:30+02:00,,,Unknown
+BTS,2026-08-07,Departure,BQ 2391,,SkyAlps SRL,,,,2026-08-07 17:30+02:00,,,Unknown
+BTS,2026-08-07,Departure,FR 8227,RYR8227,Ryanair,,,,2026-08-07 18:10+02:00,,,Departed
+BTS,2026-08-07,Departure,6D 6302,TVQ6302,Travel Service Slovensko,,,,2026-08-07 19:15+03:00,,,Departed
+BTS,2026-08-07,Departure,SWU 2391,SWU2391,SWU,,,,,,,Departed
+BTS,2026-08-07,Departure,W6 7025,WZZ4404,Wizz Air,,,,2026-08-07 20:19+02:00,,,Departed
+BTS,2026-08-07,Departure,FR 5759,RYR48AP,Ryanair,,,,,,,Departed
+BTS,2026-08-07,Departure,FRO 945,FRO945,FRO,,,,,,,Departed
+BTS,2026-08-07,Departure,SUA 6X,SUA6P,Silesia Air,,,,,,,Departed
+BTS,2026-08-07,Departure,FR 5699,RYR19SV,Ryanair,,,,2026-08-07 20:51+02:00,,,Departed
+BTS,2026-08-07,Departure,OMDYE,OMDYE,Unknown/Private owner,,,,,,,Departed
+BTS,2026-08-07,Departure,QS 1512,TVS89Q,SmartWings,,,,2026-08-07 21:27+03:00,,,Departed
+BTS,2026-08-07,Departure,FH 786,FHY786,Freebird Airlines,,,,2026-08-07 22:14+03:00,,,Departed
+BTS,2026-08-07,Departure,W6 7059,,Wizz Air,,,,2026-08-08 00:46+03:00,,,Departed
+BTS,2026-08-07,Departure,FR 7143,RYR7143,Ryanair,,,,2026-08-07 22:05+03:00,,,Departed
+BTS,2026-08-07,Departure,W6 7035,WZZ1UY,Wizz Air,,,,2026-08-08 01:02+03:00,,,Departed
+BTS,2026-08-07,Departure,SM 552,MSC552,Air Cairo,,,,2026-08-08 00:55+03:00,,,Unknown
+BTS,2026-08-07,Departure,W6 7013,WZZ3CU,Wizz Air,,,,2026-08-07 21:10+02:00,,,Departed
+BTS,2026-08-07,Departure,NP 7504,NIA7504,Nile Air,,,,2026-08-08 01:50+03:00,,,Unknown
+BTS,2026-08-07,Departure,FR 62,RYR45XF,Ryanair,,,,2026-08-07 22:13+01:00,,,Departed
+BTS,2026-08-07,Departure,FR 1745,RYR869U,Ryanair,,,,2026-08-07 23:35+03:00,,,Departed
+BTS,2026-08-07,Departure,W6 1YB,WZZ1YB,Wizz Air,,,,,,,Departed
+BTS,2026-08-07,Departure,QY 13J,BCS13J,EAT Leipzig,,,,,,,Departed
+BTS,2026-08-07,Departure,W6 1UY,WZZ1UY,Wizz Air,,,,,,,Departed
+BTS,2026-08-07,Departure,FR 5803,RYR38DU,Ryanair,,,,,,,Departed

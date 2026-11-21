@@ -1,0 +1,40 @@
+airport,date,direction,flight_number,callsign,airline,destination_iata,destination_name,departure_time,arrival_time,scheduled_time,revised_time,status
+SUF,2026-11-13,Departure,M4 9893,MSA9893,Poste Air Cargo,,,,2026-11-13 05:42+01:00,,,Departed
+SUF,2026-11-13,Departure,FR 8876,RYR274L,Ryanair,,,,2026-11-13 07:14+01:00,,,Departed
+SUF,2026-11-13,Departure,FR 8609,,Ryanair,,,,2026-11-13 08:40+01:00,,,Unknown
+SUF,2026-11-13,Departure,AZ 1176,ITY1176,ITA,,,,2026-11-13 07:42+01:00,,,Departed
+SUF,2026-11-13,Departure,AZ 1162,ITY1162,ITA,,,,2026-11-13 07:25+01:00,,,Departed
+SUF,2026-11-13,Departure,FR 7090,,Ryanair,,,,2026-11-13 08:45+01:00,,,Unknown
+SUF,2026-11-13,Departure,FR 1418,,Ryanair,,,,2026-11-13 09:30+01:00,,,Unknown
+SUF,2026-11-13,Departure,FR 1012,,Ryanair,,,,2026-11-13 09:20+01:00,,,Unknown
+SUF,2026-11-13,Departure,W4 6262,,Wizz Air Malta,,,,2026-11-13 09:10+01:00,,,Departed
+SUF,2026-11-13,Departure,FR 5835,,Ryanair,,,,2026-11-13 09:25+01:00,,,Unknown
+SUF,2026-11-13,Departure,FR 6498,RYR90VT,Ryanair,,,,2026-11-13 09:43+01:00,,,Departed
+SUF,2026-11-13,Departure,FR 6498,RYR90VT,Ryanair,,,,2026-11-13 09:43+01:00,,,Departed
+SUF,2026-11-13,Departure,FR 936,,Ryanair,,,,2026-11-13 10:00+01:00,,,Unknown
+SUF,2026-11-13,Departure,W4 7040,WMT74G,Wizz Air Malta,,,,2026-11-13 10:53+01:00,,,Departed
+SUF,2026-11-13,Departure,CAN 12,CAN12,CAN,,,,,,,Departed
+SUF,2026-11-13,Departure,FR 5115,,Ryanair,,,,2026-11-13 11:25+01:00,,,Unknown
+SUF,2026-11-13,Departure,U2 3556,EJU428M,easyJet,,,,2026-11-13 11:28+01:00,,,Departed
+SUF,2026-11-13,Departure,FR 9311,,Ryanair,,,,2026-11-13 11:45+01:00,,,Unknown
+SUF,2026-11-13,Departure,AZ 1168,ITY1168,ITA,,,,2026-11-13 12:30+01:00,,,Departed
+SUF,2026-11-13,Departure,FR 6937,,Ryanair,,,,2026-11-13 13:00+01:00,,,Unknown
+SUF,2026-11-13,Departure,FR 1435,RYR798U,Ryanair,,,,2026-11-13 13:45+01:00,,,Departed
+SUF,2026-11-13,Departure,FR 225,RYR225,Ryanair,,,,2026-11-13 14:56+01:00,,,Departed
+SUF,2026-11-13,Departure,U2 1122,,easyJet,,,,2026-11-13 16:20+01:00,,,Unknown
+SUF,2026-11-13,Departure,WK 385,EDW385R,Edelweiss Air,,,,2026-11-13 17:02+01:00,,,Departed
+SUF,2026-11-13,Departure,FR 5093,RYR1SN,Ryanair,,,,2026-11-13 16:27+01:00,,,Departed
+SUF,2026-11-13,Departure,AZ 1184,ITY1184,ITA,,,,2026-11-13 17:12+01:00,,,Departed
+SUF,2026-11-13,Departure,FR 3624,RYR460M,Ryanair,,,,2026-11-13 16:57+01:00,,,Departed
+SUF,2026-11-13,Departure,FR 926,,Ryanair,,,,2026-11-13 18:30+01:00,,,Unknown
+SUF,2026-11-13,Departure,FR 2729,,Ryanair,,,,2026-11-13 18:57+00:00,,,Departed
+SUF,2026-11-13,Departure,U2 3562,EJU38ZL,easyJet,,,,2026-11-13 19:27+01:00,,,Departed
+SUF,2026-11-13,Departure,FR 5760,,Ryanair,,,,2026-11-13 20:25+01:00,,,Unknown
+SUF,2026-11-13,Departure,FR 1291,RYR62PP,Ryanair,,,,2026-11-13 20:01+01:00,,,Departed
+SUF,2026-11-13,Departure,AZ 1170,ITY1170,ITA,,,,2026-11-13 20:19+01:00,,,Departed
+SUF,2026-11-13,Departure,FR 9970,RYR12QY,Ryanair,,,,2026-11-13 21:32+01:00,,,Departed
+SUF,2026-11-13,Departure,W4 7072,,Wizz Air Malta,,,,2026-11-13 22:25+01:00,,,Unknown
+SUF,2026-11-13,Departure,W4 6264,,Wizz Air Malta,,,,,,,Unknown
+SUF,2026-11-13,Departure,W4 7042,WMT248,Wizz Air Malta,,,,2026-11-13 22:24+01:00,,,Departed
+SUF,2026-11-13,Departure,FR 3439,,Ryanair,,,,,,,Unknown
+SUF,2026-11-13,Departure,FR 1437,RYR41QD,Ryanair,,,,2026-11-14 00:38+01:00,,,Departed

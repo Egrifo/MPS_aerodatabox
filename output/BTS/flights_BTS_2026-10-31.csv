@@ -1,0 +1,39 @@
+airport,date,direction,flight_number,callsign,airline,destination_iata,destination_name,departure_time,arrival_time,scheduled_time,revised_time,status
+BTS,2026-10-31,Departure,QS 686F,TVS686F,SmartWings,,,,2026-10-31 00:33+01:00,,,Departed
+BTS,2026-10-31,Departure,W6 7065,,Wizz Air,,,,2026-10-31 12:20+04:00,,,Unknown
+BTS,2026-10-31,Departure,W6 7001,WZZ9XU,Wizz Air,,,,2026-10-31 06:42+01:00,,,Departed
+BTS,2026-10-31,Departure,W6 2609,,Wizz Air,,,,2026-10-31 10:10+00:00,,,Departed
+BTS,2026-10-31,Departure,FR 5719,RYR75UD,Ryanair,,,,2026-10-31 08:25+01:00,,,Departed
+BTS,2026-10-31,Departure,W6 7037,WZZ8WQ,Wizz Air,,,,2026-10-31 07:38+01:00,,,Departed
+BTS,2026-10-31,Departure,FR 5733,RYR14RD,Ryanair,,,,2026-10-31 08:01+01:00,,,Departed
+BTS,2026-10-31,Departure,FR 62,,Ryanair,,,,2026-10-31 08:41+00:00,,,Departed
+BTS,2026-10-31,Departure,FR 1622,RYR1622,Ryanair,,,,2026-10-31 08:08+01:00,,,Departed
+BTS,2026-10-31,Departure,W6 7021,WZZ984,Wizz Air,,,,2026-10-31 11:10+01:00,,,Departed
+BTS,2026-10-31,Departure,W6 7862,WZZ69,Wizz Air,,,,2026-10-31 15:11+04:00,,,Departed
+BTS,2026-10-31,Departure,FR 9512,RYR7MG,Ryanair,,,,2026-10-31 12:20+01:00,,,Departed
+BTS,2026-10-31,Departure,W6 2633,WZZ3215,Wizz Air,,,,2026-10-31 12:20+01:00,,,Departed
+BTS,2026-10-31,Departure,OMFRI,OMFRI,Unknown/Private owner,,,,,,,Departed
+BTS,2026-10-31,Departure,FR 5759,RYR92NT,Ryanair,,,,2026-10-31 12:17+01:00,,,Departed
+BTS,2026-10-31,Departure,FR 5776,RYR28SU,Ryanair,,,,2026-10-31 14:24+01:00,,,Departed
+BTS,2026-10-31,Departure,6D 6628,TVQ6628,Travel Service Slovensko,,,,,,,Departed
+BTS,2026-10-31,Departure,FR 4225,,Ryanair,,,,2026-10-31 14:00+01:00,,,Departed
+BTS,2026-10-31,Departure,FR 3639,RYR3639,Ryanair,,,,2026-10-31 13:52+01:00,,,Departed
+BTS,2026-10-31,Departure,W6 2613,WZZ1TW,Wizz Air,,,,2026-10-31 20:59+04:00,,,Departed
+BTS,2026-10-31,Departure,OMFRI,OMFRI,Unknown/Private owner,,,,,,,Departed
+BTS,2026-10-31,Departure,FR 4223,RYR7VF,Ryanair,,,,2026-10-31 16:17+00:00,,,Departed
+BTS,2026-10-31,Departure,FR 1871,RYR885,Ryanair,,,,2026-10-31 18:15+01:00,,,Departed
+BTS,2026-10-31,Departure,FR 7861,,Ryanair,,,,2026-10-31 17:40+00:00,,,Departed
+BTS,2026-10-31,Departure,W6 7003,WZZ234,Wizz Air,,,,2026-10-31 16:33+01:00,,,Departed
+BTS,2026-10-31,Departure,FR 9304,RYR57BQ,Ryanair,,,,2026-10-31 17:49+00:00,,,Departed
+BTS,2026-10-31,Departure,FR 3637,RYR2EP,Ryanair,,,,2026-10-31 19:05+01:00,,,Departed
+BTS,2026-10-31,Departure,W6 7061,WZZ9WB,Wizz Air,,,,2026-10-31 21:23+02:00,,,Departed
+BTS,2026-10-31,Departure,FR 1529,,Ryanair,,,,2026-10-31 21:40+01:00,,,Departed
+BTS,2026-10-31,Departure,W6 7011,WZZ3049,Wizz Air,,,,2026-10-31 19:43+01:00,,,Departed
+BTS,2026-10-31,Departure,W6 4626,,Wizz Air,,,,2026-10-31 22:25+02:00,,,Departed
+BTS,2026-10-31,Departure,W6 6276,WZZ6276,Wizz Air,,,,,,,Departed
+BTS,2026-10-31,Departure,W6 4244,,Wizz Air,,,,2026-10-31 19:55+01:00,,,Unknown
+BTS,2026-10-31,Departure,W6 7017,WZZ8FY,Wizz Air,,,,2026-10-31 20:22+01:00,,,Departed
+BTS,2026-10-31,Departure,FR 5803,RYR6LC,Ryanair,,,,2026-10-31 21:55+01:00,,,Departed
+BTS,2026-10-31,Departure,FR 763,RYR631G,Ryanair,,,,2026-10-31 21:55+01:00,,,Departed
+BTS,2026-10-31,Departure,W6 4762,WZZ574,Wizz Air,,,,2026-11-01 00:08+01:00,,,Departed
+BTS,2026-10-31,Departure,NP 7604,NIA7604,Nile Air,,,,2026-11-01 01:25+02:00,,,Departed

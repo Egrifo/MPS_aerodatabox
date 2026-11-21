@@ -1,0 +1,72 @@
+airport,date,direction,flight_number,callsign,airline,destination_iata,destination_name,departure_time,arrival_time,scheduled_time,revised_time,status
+BTS,2026-07-09,Departure,FR 6824,RYR80RZ,Ryanair,,,,2026-07-08 23:30+02:00,,,Departed
+BTS,2026-07-09,Departure,6D 6136,TVQ6136,Travel Service Slovensko,,,,2026-07-09 03:25+03:00,,,Departed
+BTS,2026-07-09,Departure,XQ 419,SXS4TF,Sun Express,,,,2026-07-09 04:00+03:00,,,Departed
+BTS,2026-07-09,Departure,6D 6090,TVQ6090,Travel Service Slovensko,,,,,,,Departed
+BTS,2026-07-09,Departure,QS 1580,TVS9BH,SmartWings,,,,2026-07-09 06:45+03:00,,,Departed
+BTS,2026-07-09,Departure,HT 6040,HAT6040,Air Horizont,,,,2026-07-09 06:40+03:00,,,Departed
+BTS,2026-07-09,Departure,QS 1518,TVS1NQ,SmartWings,,,,2026-07-09 07:09+03:00,,,Departed
+BTS,2026-07-09,Departure,6D 6364,TVQ6364,Travel Service Slovensko,,,,2026-07-09 07:37+03:00,,,Departed
+BTS,2026-07-09,Departure,W6 7047,,Wizz Air,,,,2026-07-09 06:59+02:00,,,Departed
+BTS,2026-07-09,Departure,W6 7051,WZZ622,Wizz Air,,,,2026-07-09 07:55+02:00,,,Departed
+BTS,2026-07-09,Departure,W6 7001,WZZ2447,Wizz Air,,,,2026-07-09 06:46+02:00,,,Departed
+BTS,2026-07-09,Departure,FR 1871,RYR56TE,Ryanair,,,,2026-07-09 08:16+02:00,,,Departed
+BTS,2026-07-09,Departure,W6 7045,WZZ3BR,Wizz Air,,,,2026-07-09 07:50+02:00,,,Departed
+BTS,2026-07-09,Departure,FR 5042,RYR56NF,Ryanair,,,,2026-07-09 08:17+01:00,,,Departed
+BTS,2026-07-09,Departure,W6 7862,,Wizz Air,,,,,,,Unknown
+BTS,2026-07-09,Departure,FR 4225,RYR1AE,Ryanair,,,,2026-07-09 09:07+02:00,,,Departed
+BTS,2026-07-09,Departure,FR 62,RYR45XF,Ryanair,,,,2026-07-09 09:42+01:00,,,Departed
+BTS,2026-07-09,Departure,OMBYD,OMBYD,Unknown/Private owner,,,,,,,Departed
+BTS,2026-07-09,Departure,OMCAT,OMCAT,OMCAT,,,,,,,Departed
+BTS,2026-07-09,Departure,FR 3328,RYR7LN,Ryanair,,,,2026-07-09 12:40+03:00,,,Departed
+BTS,2026-07-09,Departure,OEFIX,OEFIX,Unknown/Private owner,,,,,,,Departed
+BTS,2026-07-09,Departure,W6 7015,WZZ2TF,Wizz Air,,,,2026-07-09 10:59+02:00,,,Departed
+BTS,2026-07-09,Departure,4O 347,,Interjet,,,,2026-07-09 10:42+02:00,,,Departed
+BTS,2026-07-09,Departure,MNE 347,MNE347,MNE,,,,,,,Departed
+BTS,2026-07-09,Departure,FTY 14,FTY14,FTY,,,,2026-07-09 13:49+01:00,,,Departed
+BTS,2026-07-09,Departure,W6 7043,WZZ9SF,Wizz Air,,,,2026-07-09 11:20+02:00,,,Departed
+BTS,2026-07-09,Departure,OMCAT,OMCAT,OMCAT,,,,,,,Departed
+BTS,2026-07-09,Departure,PC 5072,PGT928A,Pegasus,,,,2026-07-09 13:54+03:00,,,Departed
+BTS,2026-07-09,Departure,W6 1424,WZZ2WT,Wizz Air,,,,2026-07-09 11:43+02:00,,,Departed
+BTS,2026-07-09,Departure,W6 7069,WZZ274,Wizz Air,,,,2026-07-09 11:25+01:00,,,Departed
+BTS,2026-07-09,Departure,W6 7017,WZZ5WS,Wizz Air,,,,2026-07-09 12:18+02:00,,,Departed
+BTS,2026-07-09,Departure,FR 3706,RYR3706,Ryanair,,,,2026-07-09 13:45+03:00,,,Departed
+BTS,2026-07-09,Departure,6D 6314,TVQ6314,Travel Service Slovensko,,,,2026-07-09 14:55+03:00,,,Departed
+BTS,2026-07-09,Departure,6D 6836,TVQ6836,Travel Service Slovensko,,,,,,,Departed
+BTS,2026-07-09,Departure,UZA 147P,UZA147P,UZA,,,,2026-07-09 14:35+01:00,,,Departed
+BTS,2026-07-09,Departure,W6 4244,WZZ915,Wizz Air,,,,2026-07-09 14:10+02:00,,,Departed
+BTS,2026-07-09,Departure,MGH 436,MGH436,MGH,,,,,,,Departed
+BTS,2026-07-09,Departure,FR 9850,RYR98,Ryanair,,,,2026-07-09 15:00+02:00,,,Departed
+BTS,2026-07-09,Departure,HT 6042,HAT6042,Air Horizont,,,,,,,Departed
+BTS,2026-07-09,Departure,6D 6318,TVQ6318,Travel Service Slovensko,,,,2026-07-09 16:45+03:00,,,Departed
+BTS,2026-07-09,Departure,W6 7011,WZZ5495,Wizz Air,,,,2026-07-09 15:57+02:00,,,Departed
+BTS,2026-07-09,Departure,FR 5761,RYR7EV,Ryanair,,,,2026-07-09 16:08+02:00,,,Departed
+BTS,2026-07-09,Departure,OMCAT,OMCAT,OMCAT,,,,,,,Departed
+BTS,2026-07-09,Departure,W6 7033,WZZ9JQ,Wizz Air,,,,2026-07-09 16:39+02:00,,,Departed
+BTS,2026-07-09,Departure,OMCMJ,OMCMJ,Unknown/Private owner,,,,,,,Departed
+BTS,2026-07-09,Departure,FR 6643,RYR79RN,Ryanair,,,,2026-07-09 17:26+01:00,,,Departed
+BTS,2026-07-09,Departure,W6 7003,WZZ934,Wizz Air,,,,2026-07-09 16:55+02:00,,,Departed
+BTS,2026-07-09,Departure,FR 6824,RYR80RZ,Ryanair,,,,2026-07-09 17:50+02:00,,,Departed
+BTS,2026-07-09,Departure,FR 5699,RYR19SV,Ryanair,,,,2026-07-09 19:49+02:00,,,Departed
+BTS,2026-07-09,Departure,W6 7061,WZZ9VS,Wizz Air,,,,2026-07-09 21:11+03:00,,,Departed
+BTS,2026-07-09,Departure,6D 6310,TVQ6310,Travel Service Slovensko,,,,2026-07-09 19:55+03:00,,,Departed
+BTS,2026-07-09,Departure,XC 9236,CAI6YZ,Corendon Air,,,,2026-07-09 21:10+03:00,,,Departed
+BTS,2026-07-09,Departure,FR 5719,RYR8AG,Ryanair,,,,2026-07-09 19:57+02:00,,,Departed
+BTS,2026-07-09,Departure,W6 7013,WZZ3CU,Wizz Air,,,,2026-07-09 21:05+02:00,,,Departed
+BTS,2026-07-09,Departure,FR 5733,RYR38MM,Ryanair,,,,2026-07-09 20:11+02:00,,,Departed
+BTS,2026-07-09,Departure,W6 7021,WZZ573,Wizz Air,,,,2026-07-10 02:49+02:00,,,Departed
+BTS,2026-07-09,Departure,FR 6399,RYR68KK,Ryanair,,,,2026-07-09 21:50+02:00,,,Departed
+BTS,2026-07-09,Departure,W6 7005,WZZ9TH,Wizz Air,,,,2026-07-09 22:45+03:00,,,Departed
+BTS,2026-07-09,Departure,6D 6480,TVQ6480,Travel Service Slovensko,,,,2026-07-09 21:00+01:00,,,Departed
+BTS,2026-07-09,Departure,6D 6480,TVQ6480,Travel Service Slovensko,,,,2026-07-09 21:00+01:00,,,Departed
+BTS,2026-07-09,Departure,6D 6196,TVQ6196,Travel Service Slovensko,,,,2026-07-09 23:05+03:00,,,Departed
+BTS,2026-07-09,Departure,OMCMJ,OMCMJ,Unknown/Private owner,,,,,,,Departed
+BTS,2026-07-09,Departure,AEZ 9034,AEZ9034,AEZ,,,,,,,Departed
+BTS,2026-07-09,Departure,W6 1424,,Wizz Air,,,,,,,Unknown
+BTS,2026-07-09,Departure,T7TOY,T7TOY,Unknown/Private owner,,,,,,,Departed
+BTS,2026-07-09,Departure,FR 3639,RYR9HZ,Ryanair,,,,2026-07-09 21:48+02:00,,,Departed
+BTS,2026-07-09,Departure,W6 8NF,WZZ8NF,Wizz Air,,,,,,,Departed
+BTS,2026-07-09,Departure,IZ 290,AIZ290,Arkia Israeli Airlines,,,,2026-07-10 01:55+03:00,,,Departed
+BTS,2026-07-09,Departure,QY 13J,BCS13J,EAT Leipzig,,,,2026-07-09 23:12+02:00,,,Departed
+BTS,2026-07-09,Departure,FR 5776,RYR32FQ,Ryanair,,,,2026-07-10 01:28+02:00,,,Departed
+BTS,2026-07-09,Departure,FR 1529,RYR1SK,Ryanair,,,,2026-07-10 01:41+02:00,,,Departed

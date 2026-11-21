@@ -1,0 +1,16 @@
+airport,date,direction,flight_number,callsign,airline,destination_iata,destination_name,departure_time,arrival_time,scheduled_time,revised_time,status
+BTS,2026-11-10,Departure,QY 5534,BCS5534,EAT Leipzig,,,,,,,Departed
+BTS,2026-11-10,Departure,W6 7001,,Wizz Air,,,,2026-11-10 06:55+01:00,,,Unknown
+BTS,2026-11-10,Departure,W6 7065,,Wizz Air,,,,2026-11-10 12:20+04:00,,,Unknown
+BTS,2026-11-10,Departure,W6 2609,,Wizz Air,,,,2026-11-10 10:15+00:00,,,Unknown
+BTS,2026-11-10,Departure,W6 7862,,Wizz Air,,,,2026-11-10 14:45+04:00,,,Expected
+BTS,2026-11-10,Departure,W6 7021,,Wizz Air,,,,2026-11-10 12:00+01:00,,,Expected
+BTS,2026-11-10,Departure,W6 2633,,Wizz Air,,,,2026-11-10 12:20+01:00,,,Expected
+BTS,2026-11-10,Departure,W6 4626,,Wizz Air,,,,2026-11-10 17:00+02:00,,,Expected
+BTS,2026-11-10,Departure,FR 62,,Ryanair,,,,2026-11-10 16:10+00:00,,,Expected
+BTS,2026-11-10,Departure,W6 4244,,Wizz Air,,,,2026-11-10 16:05+01:00,,,Expected
+BTS,2026-11-10,Departure,W6 7045,,Wizz Air,,,,2026-11-10 17:05+01:00,,,Expected
+BTS,2026-11-10,Departure,W6 7003,,Wizz Air,,,,2026-11-10 16:50+01:00,,,Expected
+BTS,2026-11-10,Departure,W6 7061,,Wizz Air,,,,2026-11-10 21:35+02:00,,,Expected
+BTS,2026-11-10,Departure,W6 7037,,Wizz Air,,,,,,,Expected
+BTS,2026-11-10,Departure,W6 4762,,Wizz Air,,,,2026-11-10 22:20+01:00,,,Expected

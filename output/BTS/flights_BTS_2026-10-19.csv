@@ -1,0 +1,51 @@
+airport,date,direction,flight_number,callsign,airline,destination_iata,destination_name,departure_time,arrival_time,scheduled_time,revised_time,status
+BTS,2026-10-19,Departure,QS 134P,TVS134P,SmartWings,,,,2026-10-19 04:58+02:00,,,Departed
+BTS,2026-10-19,Departure,W6 7023,WZZ7WM,Wizz Air,,,,2026-10-19 08:34+02:00,,,Departed
+BTS,2026-10-19,Departure,W6 7001,WZZ2447,Wizz Air,,,,2026-10-19 06:33+02:00,,,Departed
+BTS,2026-10-19,Departure,OKBII,OKBII,Unknown/Private owner,,,,2026-10-19 07:15+02:00,,,Departed
+BTS,2026-10-19,Departure,W6 7041,WZZ4DY,Wizz Air,,,,2026-10-19 07:35+02:00,,,Departed
+BTS,2026-10-19,Departure,FR 5042,RYR56NF,Ryanair,,,,2026-10-19 07:09+01:00,,,Departed
+BTS,2026-10-19,Departure,W6 7037,WZZ6072,Wizz Air,,,,2026-10-19 07:32+02:00,,,Departed
+BTS,2026-10-19,Departure,CVK 7149,CVK7149,CVK,,,,,,,Departed
+BTS,2026-10-19,Departure,FR 9850,RYR98,Ryanair,,,,2026-10-19 09:55+02:00,,,Departed
+BTS,2026-10-19,Departure,FR 1871,RYR56TE,Ryanair,,,,2026-10-19 10:13+02:00,,,Departed
+BTS,2026-10-19,Departure,SSG 4A,SSG04A,Slovak Government Flying Service,,,,,,,Departed
+BTS,2026-10-19,Departure,FR 7143,RYR7143,Ryanair,,,,2026-10-19 12:10+03:00,,,Departed
+BTS,2026-10-19,Departure,W6 7021,WZZ573,Wizz Air,,,,2026-10-19 11:48+02:00,,,Departed
+BTS,2026-10-19,Departure,N1 77HC,N177HC,Unknown/Private owner,,,,2026-10-19 10:55+02:00,,,Departed
+BTS,2026-10-19,Departure,W6 7015,WZZ2TF,Wizz Air,,,,2026-10-19 11:45+02:00,,,Departed
+BTS,2026-10-19,Departure,OMART,OMART,Unknown/Private owner,,,,,,,Departed
+BTS,2026-10-19,Departure,W6 7017,WZZ5WS,Wizz Air,,,,2026-10-19 11:45+02:00,,,Departed
+BTS,2026-10-19,Departure,FR 5719,RYR8AG,Ryanair,,,,2026-10-19 17:01+02:00,,,Departed
+BTS,2026-10-19,Departure,W4 9032,WMT9032,Wizz Air Malta,,,,2026-10-19 14:10+02:00,,,Departed
+BTS,2026-10-19,Departure,FR 62,RYR45XF,Ryanair,,,,2026-10-19 13:52+01:00,,,Departed
+BTS,2026-10-19,Departure,W6 7031,WZZ5WE,Wizz Air,,,,2026-10-19 15:29+02:00,,,Departed
+BTS,2026-10-19,Departure,FR 35,RYR81KJ,Ryanair,,,,2026-10-19 15:12+01:00,,,Departed
+BTS,2026-10-19,Departure,W6 4762,WZZ4XM,Wizz Air,,,,2026-10-19 15:42+02:00,,,Departed
+BTS,2026-10-19,Departure,FR 8AG,RYR8AG,Ryanair,,,,,,,Departed
+BTS,2026-10-19,Departure,FR 4225,RYR1AE,Ryanair,,,,2026-10-19 16:32+02:00,,,Departed
+BTS,2026-10-19,Departure,QU 4225,UTN4225,Azur Air Ukraine,,,,,,,Departed
+BTS,2026-10-19,Departure,FR 5733,RYR38MM,Ryanair,,,,2026-10-19 16:40+02:00,,,Departed
+BTS,2026-10-19,Departure,FR 3639,RYR9HZ,Ryanair,,,,2026-10-19 16:31+02:00,,,Departed
+BTS,2026-10-19,Departure,W6 7003,WZZ934,Wizz Air,,,,2026-10-19 16:25+02:00,,,Departed
+BTS,2026-10-19,Departure,W4 3996,WMT534,Wizz Air Malta,,,,2026-10-19 18:25+03:00,,,Departed
+BTS,2026-10-19,Departure,W6 7025,WZZ4404,Wizz Air,,,,2026-10-19 19:30+02:00,,,Departed
+BTS,2026-10-19,Departure,OKBII,OKBII,Unknown/Private owner,,,,2026-10-19 18:03+02:00,,,Departed
+BTS,2026-10-19,Departure,W6 7061,WZZ9VS,Wizz Air,,,,2026-10-19 20:55+03:00,,,Departed
+BTS,2026-10-19,Departure,AAO 52,AAO52,AAO,,,,,,,Departed
+BTS,2026-10-19,Departure,FR 3637,RYR252D,Ryanair,,,,2026-10-19 19:25+02:00,,,Departed
+BTS,2026-10-19,Departure,FR 3328,RYR7LN,Ryanair,,,,2026-10-19 22:05+03:00,,,Departed
+BTS,2026-10-19,Departure,W6 7059,WZZ1YB,Wizz Air,,,,2026-10-19 21:37+03:00,,,Departed
+BTS,2026-10-19,Departure,AAO 52,AAO52,AAO,,,,2026-10-19 20:12+02:00,,,Departed
+BTS,2026-10-19,Departure,ZP 6162,AZQ6162,Silk Way Airlines,,,,,,,Departed
+BTS,2026-10-19,Departure,FR 6399,RYR68KK,Ryanair,,,,2026-10-19 21:55+02:00,,,Departed
+BTS,2026-10-19,Departure,K0 6,K06,K0,,,,,,,Departed
+BTS,2026-10-19,Departure,FR 2853,RYR10AD,Ryanair,,,,2026-10-19 21:34+02:00,,,Departed
+BTS,2026-10-19,Departure,FR 5776,RYR32FQ,Ryanair,,,,2026-10-20 02:31+02:00,,,Departed
+BTS,2026-10-19,Departure,W6 7035,WZZ1UY,Wizz Air,,,,2026-10-19 23:07+03:00,,,Departed
+BTS,2026-10-19,Departure,FR 5699,,Ryanair,,,,2026-10-20 03:49+02:00,,,Departed
+BTS,2026-10-19,Departure,QY 13J,BCS13J,EAT Leipzig,,,,2026-10-19 23:22+02:00,,,Departed
+BTS,2026-10-19,Departure,QS 601F,TVS601F,SmartWings,,,,,,,Departed
+BTS,2026-10-19,Departure,FR 1529,,Ryanair,,,,2026-10-20 02:41+02:00,,,Departed
+BTS,2026-10-19,Departure,FR 32FQ,RYR32FQ,Ryanair,,,,,,,Departed
+BTS,2026-10-19,Departure,FR 6831,RYR6831,Ryanair,,,,2026-10-20 00:55+02:00,,,Departed

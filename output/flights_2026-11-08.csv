@@ -1,0 +1,594 @@
+airport,date,flight_number,callsign,airline,destination_iata,destination_name,scheduled_time,revised_time,status
+GVA,2026-11-08,LA 5400,,LATAM,,,,,Departed
+GVA,2026-11-08,VY 5153,,Vueling,,,,,Departed
+GVA,2026-11-08,AA 8532,,American,,,,,Departed
+GVA,2026-11-08,U2 1553,EZS15BG,easyJet,,,,,Departed
+GVA,2026-11-08,DS 1579,,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,IB 622,,Iberia,,,,,Departed
+GVA,2026-11-08,DS 1553,EZS15BG,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 1579,,easyJet,,,,,Departed
+GVA,2026-11-08,LX 4594,,SWISS,,,,,Departed
+GVA,2026-11-08,S4 8354,,Azores,,,,,Departed
+GVA,2026-11-08,AD 7267,,Azul,,,,,Departed
+GVA,2026-11-08,U2 1415,EZS85YQ,easyJet,,,,,Departed
+GVA,2026-11-08,TP 945,TAP945,TAP Air Portugal,,,,,Departed
+GVA,2026-11-08,DS 1415,EZS85YQ,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,DS 65LT,EZS94ZM,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 65LT,EZS94ZM,easyJet,,,,,Departed
+GVA,2026-11-08,YW 6BY,IBE06BY,Air Nostrum,,,,,Departed
+GVA,2026-11-08,IB 6BY,IBE06BY,Iberia,,,,,Departed
+GVA,2026-11-08,U2 1287,EJU1287,easyJet,,,,,Departed
+GVA,2026-11-08,EC 1287,EJU1287,EasyJet Europe,,,,,Departed
+GVA,2026-11-08,U2 1297,EJU75VY,easyJet,,,,,Departed
+GVA,2026-11-08,EC 1297,EJU75VY,EasyJet Europe,,,,,Departed
+GVA,2026-11-08,DS 1499,,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 1499,,easyJet,,,,,Departed
+GVA,2026-11-08,U2 1573,EZS46YM,easyJet,,,,,Departed
+GVA,2026-11-08,DS 1411,EZS14JA,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,DS 1573,EZS46YM,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 1411,EZS14JA,easyJet,,,,,Departed
+GVA,2026-11-08,U2 1593,,easyJet,,,,,Departed
+GVA,2026-11-08,DS 1593,,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,B6 6341,,JetBlue,,,,,Departed
+GVA,2026-11-08,QR 5898,,Qatar,,,,,Departed
+GVA,2026-11-08,CX 7187,,Cathay Pacific,,,,,Departed
+GVA,2026-11-08,AA 7039,,American,,,,,Departed
+GVA,2026-11-08,JL 6520,,JL,,,,,Departed
+GVA,2026-11-08,BA 751,BAW751,British,,,,,Departed
+GVA,2026-11-08,LX 3670,,SWISS,,,,,Departed
+GVA,2026-11-08,UA 8795,,United,,,,,Departed
+GVA,2026-11-08,AC 9470,,Air Canada,,,,,Departed
+GVA,2026-11-08,LH 1223,DLH9K,Lufthansa,,,,,Departed
+GVA,2026-11-08,U2 1295,,easyJet,,,,,Departed
+GVA,2026-11-08,LX 790,SWR585E,SWISS,,,,,Departed
+GVA,2026-11-08,U2 1493,,easyJet,,,,,Departed
+GVA,2026-11-08,SN 5110,,Brussels,,,,,Departed
+GVA,2026-11-08,SQ 2920,,Singapore,,,,,Departed
+GVA,2026-11-08,AC 6803,,Air Canada,,,,,Departed
+GVA,2026-11-08,DS 1451,EZS64PN,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 1477,,easyJet,,,,,Departed
+GVA,2026-11-08,DS 1513,EZS56FW,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 1451,EZS64PN,easyJet,,,,,Departed
+GVA,2026-11-08,EC 1295,,EasyJet Europe,,,,,Departed
+GVA,2026-11-08,U2 1513,EZS56FW,easyJet,,,,,Departed
+GVA,2026-11-08,DS 1477,,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,DS 1493,,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,ET 728,ETH728,Ethiopian,,,,,Departed
+GVA,2026-11-08,MU 1681,,China Eastern,,,,,Departed
+GVA,2026-11-08,VN 3141,,Vietnam,,,,,Departed
+GVA,2026-11-08,LX 4600,,SWISS,,,,,Departed
+GVA,2026-11-08,SK 9837,,SAS,,,,,Departed
+GVA,2026-11-08,KQ 3029,,Kenya,,,,,Departed
+GVA,2026-11-08,DL 8521,,Delta Air Lines,,,,,Departed
+GVA,2026-11-08,AM 6136,,Aeromexico,,,,,Departed
+GVA,2026-11-08,MK 9555,,Air Mauritius,,,,,Departed
+GVA,2026-11-08,G3 5204,,Gol,,,,,Departed
+GVA,2026-11-08,BT 5792,,airBaltic,,,,,Departed
+GVA,2026-11-08,AF 1243,AFR69VP,Air France,,,,,Departed
+GVA,2026-11-08,LX 2805,SWR4DX,SWISS,,,,,Departed
+GVA,2026-11-08,UA 9736,,United,,,,,Departed
+GVA,2026-11-08,SQ 2900,,Singapore,,,,,Departed
+GVA,2026-11-08,OU 5201,,Croatia,,,,,Departed
+GVA,2026-11-08,EY 6215,,Etihad,,,,,Departed
+GVA,2026-11-08,UA 9745,,United,,,,,Departed
+GVA,2026-11-08,AZ 3851,,ITA,,,,,Departed
+GVA,2026-11-08,LX 352,SWR49M,SWISS,,,,,Departed
+GVA,2026-11-08,U2 1405,EZS68DP,easyJet,,,,,Departed
+GVA,2026-11-08,DS 1405,EZS68DP,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,UEE 1,UEE1,UEE,,,,,Departed
+GVA,2026-11-08,DS 1457,EZS94ZM,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,DS 1457,EZS94ZM,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 1457,EZS94ZM,easyJet,,,,,Departed
+GVA,2026-11-08,U2 1457,EZS94ZM,easyJet,,,,,Departed
+GVA,2026-11-08,SK 6649,,SAS,,,,,Departed
+GVA,2026-11-08,KQ 1924,,Kenya,,,,,Departed
+GVA,2026-11-08,DL 9548,,Delta Air Lines,,,,,Departed
+GVA,2026-11-08,G3 5602,,Gol,,,,,Departed
+GVA,2026-11-08,6E 3335,,IndiGo,,,,,Departed
+GVA,2026-11-08,AM 6647,,Aeromexico,,,,,Departed
+GVA,2026-11-08,LH 5754,,Lufthansa,,,,,Departed
+GVA,2026-11-08,LX 2200,SWR259Y,SWISS,,,,,Departed
+GVA,2026-11-08,KL 1928,KLM1928,KLM,,,,,Departed
+GVA,2026-11-08,UA 9892,,United,,,,,Departed
+GVA,2026-11-08,SQ 2840,,Singapore,,,,,Departed
+GVA,2026-11-08,LX 4552,,SWISS,,,,,Departed
+GVA,2026-11-08,LA 7804,,LATAM,,,,,Departed
+GVA,2026-11-08,EC 1291,EJU1291,EasyJet Europe,,,,,Departed
+GVA,2026-11-08,SN 2712,BEL7NL,Brussels,,,,,Departed
+GVA,2026-11-08,U2 1291,EJU1291,easyJet,,,,,Departed
+GVA,2026-11-08,LX 2104,SWR278L,SWISS,,,,,Departed
+GVA,2026-11-08,RGA 15,RGA15,RGA,,,,,Departed
+GVA,2026-11-08,JFA 10A,JFA53X,Jetfly Aviation,,,,,Departed
+GVA,2026-11-08,SN 9022,,Brussels,,,,,Departed
+GVA,2026-11-08,LH 7953,,Lufthansa,,,,,Departed
+GVA,2026-11-08,LX 3216,,SWISS,,,,,Departed
+GVA,2026-11-08,AC 3794,,Air Canada,,,,,Departed
+GVA,2026-11-08,MU 1786,,China Eastern,,,,,Departed
+GVA,2026-11-08,SK 6651,,SAS,,,,,Departed
+GVA,2026-11-08,DL 9662,,Delta Air Lines,,,,,Departed
+GVA,2026-11-08,KQ 1926,,Kenya,,,,,Departed
+GVA,2026-11-08,AM 6526,,Aeromexico,,,,,Departed
+GVA,2026-11-08,6E 3336,,IndiGo,,,,,Departed
+GVA,2026-11-08,KL 1930,KLM1930,KLM,,,,,Departed
+GVA,2026-11-08,UA 957,UAL957,United,,,,,Departed
+GVA,2026-11-08,AA 6820,,American,,,,,Departed
+GVA,2026-11-08,B6 6343,,JetBlue,,,,,Departed
+GVA,2026-11-08,CX 7174,,Cathay Pacific,,,,,Departed
+GVA,2026-11-08,BA 753,,British,,,,,Departed
+GVA,2026-11-08,LX 3662,,SWISS,,,,,Departed
+GVA,2026-11-08,UA 8875,,United,,,,,Departed
+GVA,2026-11-08,AC 9022,,Air Canada,,,,,Departed
+GVA,2026-11-08,LA 8702,,LATAM,,,,,Departed
+GVA,2026-11-08,LH 1213,DLH8K,Lufthansa,,,,,Departed
+GVA,2026-11-08,AF 1543,AFR37LF,Air France,,,,,Departed
+GVA,2026-11-08,G3 5280,,Gol,,,,,Departed
+GVA,2026-11-08,WS 5175,,WestJet,,,,,Departed
+GVA,2026-11-08,MK 9553,,Air Mauritius,,,,,Departed
+GVA,2026-11-08,DL 8523,,Delta Air Lines,,,,,Departed
+GVA,2026-11-08,VN 3143,,Vietnam,,,,,Departed
+GVA,2026-11-08,LX 4602,,SWISS,,,,,Departed
+GVA,2026-11-08,SK 9843,,SAS,,,,,Departed
+GVA,2026-11-08,MU 1878,,China Eastern,,,,,Departed
+GVA,2026-11-08,AM 6137,,Aeromexico,,,,,Departed
+GVA,2026-11-08,XQ 129,SXS34F,Sun Express,,,,,Departed
+GVA,2026-11-08,CA 6456,,Air China,,,,,Departed
+GVA,2026-11-08,LX 4812,,SWISS,,,,,Departed
+GVA,2026-11-08,LH 9445,,Lufthansa,,,,,Departed
+GVA,2026-11-08,AC 7359,,Air Canada,,,,,Departed
+GVA,2026-11-08,EY 146,ETD5HJ,Etihad,,,,,Departed
+GVA,2026-11-08,EN 2383,DLA9AK,Air Dolomiti,,,,,Departed
+GVA,2026-11-08,OS 152,AUA15N,Austrian,,,,,Departed
+GVA,2026-11-08,ET 1203,,ET,,,,,Departed
+GVA,2026-11-08,AI 8432,,Air India,,,,,Departed
+GVA,2026-11-08,LX 3562,,SWISS,,,,,Departed
+GVA,2026-11-08,U2 5470,EJU5470,easyJet,,,,,Departed
+GVA,2026-11-08,EC 5470,EJU5470,EasyJet Europe,,,,,Departed
+GVA,2026-11-08,U2 8494,EZY56NW,easyJet,,,,,Departed
+GVA,2026-11-08,SK 1610,SAS22P,SAS,,,,,Departed
+GVA,2026-11-08,AA 8735,,American,,,,,Departed
+GVA,2026-11-08,U2 2184,EZY47ED,easyJet,,,,,Departed
+GVA,2026-11-08,IB 624,,Iberia,,,,,Departed
+GVA,2026-11-08,LX 2807,SWR2XL,SWISS,,,,,Departed
+GVA,2026-11-08,EY 6216,,Etihad,,,,,Departed
+GVA,2026-11-08,CX 6604,,Cathay Pacific,,,,,Departed
+GVA,2026-11-08,CA 5623,,Air China,,,,,Departed
+GVA,2026-11-08,IB 6GG,IBE06GG,Iberia,,,,,Departed
+GVA,2026-11-08,YW 6GG,IBE06GG,Air Nostrum,,,,,Departed
+GVA,2026-11-08,HBJAZ,HBJAZ,Unknown/Private owner,,,,,Departed
+GVA,2026-11-08,U2 6820,EJU86FP,easyJet,,,,,Departed
+GVA,2026-11-08,EC 6820,EJU86FP,EasyJet Europe,,,,,Departed
+GVA,2026-11-08,LO 418,LOT3YM,LOT - Polish,,,,,Departed
+GVA,2026-11-08,HBZVZ,HBZVZ,Unknown/Private owner,,,,,Departed
+GVA,2026-11-08,UA 9796,,United,,,,,Departed
+GVA,2026-11-08,A3 1989,,Aegean,,,,,Departed
+GVA,2026-11-08,TP 8200,,TAP Air Portugal,,,,,Departed
+GVA,2026-11-08,LX 1822,SWR531C,SWISS,,,,,Departed
+GVA,2026-11-08,BA 727,BAW727G,British,,,,,Departed
+GVA,2026-11-08,AA 6862,,American,,,,,Departed
+GVA,2026-11-08,QR 9774,,Qatar,,,,,Departed
+GVA,2026-11-08,AS 5334,,Alaska,,,,,Departed
+GVA,2026-11-08,LX 2809,SWR3HY,SWISS,,,,,Departed
+GVA,2026-11-08,EY 6220,,Etihad,,,,,Departed
+GVA,2026-11-08,AC 6816,,Air Canada,,,,,Departed
+GVA,2026-11-08,NH 6387,,ANA,,,,,Departed
+GVA,2026-11-08,LH 5675,,Lufthansa,,,,,Departed
+GVA,2026-11-08,LX 4800,,SWISS,,,,,Departed
+GVA,2026-11-08,U2 8488,EZS21AL,easyJet,,,,,Departed
+GVA,2026-11-08,DS 8488,EZS21AL,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,EN 1215,DLA5K,Air Dolomiti,,,,,Departed
+GVA,2026-11-08,AF 1643,AFR56SG,Air France,,,,,Departed
+GVA,2026-11-08,UU 8643,,Air Austral,,,,,Departed
+GVA,2026-11-08,DL 8525,,Delta Air Lines,,,,,Departed
+GVA,2026-11-08,G3 5239,,Gol,,,,,Departed
+GVA,2026-11-08,AM 5936,,Aeromexico,,,,,Departed
+GVA,2026-11-08,MU 1692,,China Eastern,,,,,Departed
+GVA,2026-11-08,KQ 3911,,Kenya,,,,,Departed
+GVA,2026-11-08,MK 9591,,Air Mauritius,,,,,Departed
+GVA,2026-11-08,SK 9838,,SAS,,,,,Departed
+GVA,2026-11-08,VN 3671,,Vietnam,,,,,Departed
+GVA,2026-11-08,WS 5176,,WestJet,,,,,Departed
+GVA,2026-11-08,LX 4604,,SWISS,,,,,Departed
+GVA,2026-11-08,KE 6348,,Korean Air,,,,,Departed
+GVA,2026-11-08,AY 1532,,Finnair,,,,,Canceled
+GVA,2026-11-08,6E 4136,,IndiGo,,,,,Departed
+GVA,2026-11-08,TG 9247,,Thai  International,,,,,Departed
+GVA,2026-11-08,PK 5918,,Pakistan International,,,,,Departed
+GVA,2026-11-08,WB 1260,,RwandAir,,,,,Departed
+GVA,2026-11-08,WY 5760,,Oman Air,,,,,Departed
+GVA,2026-11-08,TK 1918,THY1ZV,Turkish,,,,,Departed
+GVA,2026-11-08,DS 1475,EZS57GR,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 1475,EZS57GR,easyJet,,,,,Departed
+GVA,2026-11-08,TP 6758,,TAP Air Portugal,,,,,Departed
+GVA,2026-11-08,LX 2092,SWR32F,SWISS,,,,,Departed
+GVA,2026-11-08,UA 749,UAL749,United,,,,,Departed
+GVA,2026-11-08,OS 7763,,Austrian,,,,,Departed
+GVA,2026-11-08,LX 3202,,SWISS,,,,,Departed
+GVA,2026-11-08,LH 9369,,Lufthansa,,,,,Departed
+GVA,2026-11-08,AC 3798,,Air Canada,,,,,Departed
+GVA,2026-11-08,SN 8951,,Brussels,,,,,Departed
+GVA,2026-11-08,UX 1664,AEA71YG,Air Europa,,,,,Departed
+GVA,2026-11-08,U2 2886,,easyJet,,,,,Departed
+GVA,2026-11-08,VJT 467,VJT467,VistaJet,,,,,Departed
+GVA,2026-11-08,EC 97GJ,EZY97GJ,EasyJet Europe,,,,,Departed
+GVA,2026-11-08,U2 97GJ,EZY97GJ,easyJet,,,,,Departed
+GVA,2026-11-08,DS 97GJ,EZY97GJ,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,AZ 575,ITY575,ITA,,,,,Departed
+GVA,2026-11-08,U2 1529,EZS1529,easyJet,,,,,Departed
+GVA,2026-11-08,AI 8686,,Air India,,,,,Departed
+GVA,2026-11-08,FB 1641,,Bulgaria Air,,,,,Departed
+GVA,2026-11-08,V7 6117,,Volotea,,,,,Departed
+GVA,2026-11-08,EY 2853,,Etihad,,,,,Departed
+GVA,2026-11-08,LX 3434,,SWISS,,,,,Departed
+GVA,2026-11-08,LX 22,SWR31P,SWISS,,,,,Departed
+GVA,2026-11-08,UA 9720,,United,,,,,Departed
+GVA,2026-11-08,DS 1529,EZS1529,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,AM 6221,,Aeromexico,,,,,Departed
+GVA,2026-11-08,6E 8035,,IndiGo,,,,,Departed
+GVA,2026-11-08,MH 5660,,Malaysia,,,,,Departed
+GVA,2026-11-08,DL 9550,,Delta Air Lines,,,,,Departed
+GVA,2026-11-08,SK 6653,,SAS,,,,,Departed
+GVA,2026-11-08,6E 3260,,IndiGo,,,,,Departed
+GVA,2026-11-08,MU 1914,,China Eastern,,,,,Departed
+GVA,2026-11-08,KQ 1928,,Kenya,,,,,Departed
+GVA,2026-11-08,KL 1932,KLM82K,KLM,,,,,Departed
+GVA,2026-11-08,LUA 529A,LUA529A,LUA,,,,,Departed
+GVA,2026-11-08,LX 4606,,SWISS,,,,,Departed
+GVA,2026-11-08,AM 6053,,Aeromexico,,,,,Departed
+GVA,2026-11-08,DL 8603,,Delta Air Lines,,,,,Departed
+GVA,2026-11-08,SK 9841,,SAS,,,,,Departed
+GVA,2026-11-08,MK 9593,,Air Mauritius,,,,,Departed
+GVA,2026-11-08,BT 5793,,airBaltic,,,,,Departed
+GVA,2026-11-08,UU 8843,,Air Austral,,,,,Departed
+GVA,2026-11-08,KQ 3913,,Kenya,,,,,Departed
+GVA,2026-11-08,AF 1843,AFR78UC,Air France,,,,,Departed
+GVA,2026-11-08,BA 729,BAW729,British,,,,,Departed
+GVA,2026-11-08,QR 9771,,Qatar,,,,,Departed
+GVA,2026-11-08,AS 5333,,Alaska,,,,,Departed
+GVA,2026-11-08,AA 6864,,American,,,,,Departed
+GVA,2026-11-08,MH 9853,,Malaysia,,,,,Departed
+GVA,2026-11-08,S4 8365,,Azores,,,,,Departed
+GVA,2026-11-08,AY 6789,,Finnair,,,,,Departed
+GVA,2026-11-08,LY 9035,,El Al,,,,,Departed
+GVA,2026-11-08,CA 7047,,Air China,,,,,Departed
+GVA,2026-11-08,LX 4586,,SWISS,,,,,Departed
+GVA,2026-11-08,AD 7338,,Azul,,,,,Departed
+GVA,2026-11-08,TP 941,TAP941,TAP Air Portugal,,,,,Departed
+GVA,2026-11-08,LO 4711,,LOT - Polish,,,,,Departed
+GVA,2026-11-08,AC 2664,,Air Canada,,,,,Departed
+GVA,2026-11-08,AXS 777,AXS777,AXS,,,,,Departed
+GVA,2026-11-08,U2 1463,EZS1463,easyJet,,,,,Departed
+GVA,2026-11-08,U2 8156,,easyJet,,,,,Departed
+GVA,2026-11-08,DS 1463,EZS1463,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,VY 5150,,Vueling,,,,,Departed
+GVA,2026-11-08,AA 8533,,American,,,,,Departed
+GVA,2026-11-08,AY 5629,,Finnair,,,,,Departed
+GVA,2026-11-08,IB 614,,Iberia,,,,,Departed
+GVA,2026-11-08,IB 6HK,ANE1278,Iberia,,,,,Departed
+GVA,2026-11-08,YW 6HK,ANE1278,Air Nostrum,,,,,Departed
+GVA,2026-11-08,U2 1351,EZS49JF,easyJet,,,,,Departed
+GVA,2026-11-08,DS 1351,EZS49JF,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,FSE 1D,FSE1D,Alpine Flightservice,,,,,Departed
+GVA,2026-11-08,UA 9740,,United,,,,,Departed
+GVA,2026-11-08,LX 354,SWR29K,SWISS,,,,,Departed
+GVA,2026-11-08,DS 1431,EZS76EW,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 1431,EZS76EW,easyJet,,,,,Departed
+GVA,2026-11-08,DS 1453,EZS64DR,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 1453,EZS64DR,easyJet,,,,,Departed
+GVA,2026-11-08,LX 2813,SWR5ZF,SWISS,,,,,Departed
+GVA,2026-11-08,LH 6828,,Lufthansa,,,,,Departed
+GVA,2026-11-08,ME 4551,,Middle East,,,,,Departed
+GVA,2026-11-08,LX 4642,,SWISS,,,,,Departed
+GVA,2026-11-08,UA 8391,,United,,,,,Departed
+GVA,2026-11-08,AC 803,ACA803,Air Canada,,,,,Departed
+GVA,2026-11-08,U2 1756,EJU94MJ,easyJet,,,,,Departed
+GVA,2026-11-08,EC 1756,EJU94MJ,EasyJet Europe,,,,,Departed
+GVA,2026-11-08,LH 1217,DLH4K,Lufthansa,,,,,Departed
+GVA,2026-11-08,AC 9106,,Air Canada,,,,,Departed
+GVA,2026-11-08,ET 1564,,ET,,,,,Departed
+GVA,2026-11-08,LX 3666,,SWISS,,,,,Departed
+GVA,2026-11-08,AI 8863,,Air India,,,,,Departed
+GVA,2026-11-08,UA 9041,,United,,,,,Departed
+GVA,2026-11-08,NH 6106,,ANA,,,,,Departed
+GVA,2026-11-08,CA 6104,,Air China,,,,,Departed
+GVA,2026-11-08,LA 8702,,LATAM,,,,,Departed
+GVA,2026-11-08,TG 7649,,Thai  International,,,,,Departed
+GVA,2026-11-08,SQ 2075,,Singapore,,,,,Departed
+GVA,2026-11-08,U2 1497,EZS1497,easyJet,,,,,Departed
+GVA,2026-11-08,DS 1497,EZS1497,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 1419,,easyJet,,,,,Departed
+GVA,2026-11-08,DS 1441,EZS85LR,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 1441,EZS85LR,easyJet,,,,,Departed
+GVA,2026-11-08,DS 1419,,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,EI 685,EIN68R,Aer Lingus,,,,,Departed
+GVA,2026-11-08,NJE 549U,NJE549U,NetJets Europe,,,,,Departed
+GVA,2026-11-08,TP 7015,,TAP Air Portugal,,,,,Departed
+GVA,2026-11-08,LX 4192,,SWISS,,,,,Departed
+GVA,2026-11-08,MS 772,MSR772,EgyptAir,,,,,Departed
+GVA,2026-11-08,U2 83UP,EZS73UW,easyJet,,,,,Departed
+GVA,2026-11-08,DS 83UP,EZS73UW,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,IB 1278,ANE1278,Iberia,,,,,Departed
+GVA,2026-11-08,DS 1523,,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,PC 954,PGT38RF,Pegasus,,,,,Departed
+GVA,2026-11-08,U2 1523,,easyJet,,,,,Departed
+GVA,2026-11-08,DIDAL,DIDAL,DIDAL,,,,,Departed
+GVA,2026-11-08,DS 1567,EZS58QE,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 1567,EZS58QE,easyJet,,,,,Departed
+GVA,2026-11-08,U2 1299,EJU81HE,easyJet,,,,,Departed
+GVA,2026-11-08,BA 733,BAW733,British,,,,,Departed
+GVA,2026-11-08,IV 701,,Gp Aviation,,,,,Departed
+GVA,2026-11-08,EC 1299,EJU81HE,EasyJet Europe,,,,,Departed
+GVA,2026-11-08,MH 9857,,Malaysia,,,,,Departed
+GVA,2026-11-08,AA 6868,,American,,,,,Departed
+GVA,2026-11-08,TG 9250,,Thai  International,,,,,Departed
+GVA,2026-11-08,6E 4140,,IndiGo,,,,,Departed
+GVA,2026-11-08,WY 5758,,Oman Air,,,,,Departed
+GVA,2026-11-08,PK 5922,,Pakistan International,,,,,Departed
+GVA,2026-11-08,SK 6655,,SAS,,,,,Departed
+GVA,2026-11-08,MH 5644,,Malaysia,,,,,Departed
+GVA,2026-11-08,DL 9549,,Delta Air Lines,,,,,Departed
+GVA,2026-11-08,KE 6412,,Korean Air,,,,,Departed
+GVA,2026-11-08,6E 8049,,IndiGo,,,,,Departed
+GVA,2026-11-08,MU 1788,,China Eastern,,,,,Departed
+GVA,2026-11-08,KQ 1930,,Kenya,,,,,Departed
+GVA,2026-11-08,AM 6521,,Aeromexico,,,,,Departed
+GVA,2026-11-08,TK 1922,THY2RU,Turkish,,,,,Departed
+GVA,2026-11-08,KL 1934,KLM50X,KLM,,,,,Departed
+GVA,2026-11-08,OU 5203,,Croatia,,,,,Departed
+GVA,2026-11-08,AZ 3853,,ITA,,,,,Departed
+GVA,2026-11-08,AI 7702,,Air India,,,,,Departed
+GVA,2026-11-08,LX 2811,SWR3PT,SWISS,,,,,Departed
+GVA,2026-11-08,EK 90,UAE20X,Emirates,,,,,Departed
+GVA,2026-11-08,QF 8090,,Qantas,,,,,Departed
+GVA,2026-11-08,U2 8502,,easyJet,,,,,Departed
+GVA,2026-11-08,DS 1563,EZS39HZ,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 1563,EZS39HZ,easyJet,,,,,Departed
+GVA,2026-11-08,VJT 464,VJT464,VistaJet,,,,,Departed
+GVA,2026-11-08,SV 236,SVA236,Saudi Arabian,,,,,Departed
+GVA,2026-11-08,PAV 308,PAV308,PAV,,,,,Departed
+GVA,2026-11-08,QR 100,QTR79Q,Qatar,,,,,Departed
+GVA,2026-11-08,UL 3524,,SriLankan,,,,,Departed
+GVA,2026-11-08,MH 9232,,Malaysia,,,,,Departed
+GVA,2026-11-08,VA 6089,,Virgin Australia,,,,,Departed
+GVA,2026-11-08,IB 6165,,Iberia,,,,,Departed
+GVA,2026-11-08,SK 9840,,SAS,,,,,Departed
+GVA,2026-11-08,MK 9557,,Air Mauritius,,,,,Departed
+GVA,2026-11-08,BT 5626,,airBaltic,,,,,Departed
+GVA,2026-11-08,AM 6187,,Aeromexico,,,,,Departed
+GVA,2026-11-08,UU 8443,,Air Austral,,,,,Departed
+GVA,2026-11-08,LX 4610,,SWISS,,,,,Departed
+GVA,2026-11-08,AF 1443,AFR25WV,Air France,,,,,Departed
+GVA,2026-11-08,U2 1557,,easyJet,,,,,Departed
+GVA,2026-11-08,DS 1557,,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 1471,EZS53YZ,easyJet,,,,,Departed
+GVA,2026-11-08,DS 1471,EZS53YZ,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,UA 9744,,United,,,,,Departed
+GVA,2026-11-08,NH 6755,,ANA,,,,,Departed
+GVA,2026-11-08,LX 348,SWR59K,SWISS,,,,,Departed
+GVA,2026-11-08,U2 3296,,easyJet,,,,,Departed
+GVA,2026-11-08,U2 3296,,easyJet,,,,,Departed
+GVA,2026-11-08,LX 2078,SWR7H,SWISS,,,,,Departed
+GVA,2026-11-08,TP 6760,,TAP Air Portugal,,,,,Departed
+GVA,2026-11-08,JSY 4W,JSY4W,Jung Sky,,,,,Departed
+GVA,2026-11-08,BJ 185,,Nouvelair Tunisie,,,,,Departed
+GVA,2026-11-08,TP 939,TAP939,TAP Air Portugal,,,,,Departed
+GVA,2026-11-08,U2 75ZD,EZS14EM,easyJet,,,,,Departed
+GVA,2026-11-08,DS 75ZD,EZS14EM,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,EC 75ZD,EZY75ZD,EasyJet Europe,,,,,Departed
+GVA,2026-11-08,EC 7870,EJU53EF,EasyJet Europe,,,,,Departed
+GVA,2026-11-08,LX 4588,SWR7H,SWISS,,,,,Departed
+GVA,2026-11-08,S4 8364,,Azores,,,,,Departed
+GVA,2026-11-08,AY 6793,,Finnair,,,,,Departed
+GVA,2026-11-08,U2 7870,EJU53EF,easyJet,,,,,Departed
+GVA,2026-11-08,U2 6824,EJU56AX,easyJet,,,,,Departed
+GVA,2026-11-08,EC 6824,EJU56AX,EasyJet Europe,,,,,Departed
+GVA,2026-11-08,U2 1495,,easyJet,,,,,Departed
+GVA,2026-11-08,DS 1495,,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,QR 5933,,Qatar,,,,,Departed
+GVA,2026-11-08,AA 6872,,American,,,,,Departed
+GVA,2026-11-08,BA 737,BAW73V,British,,,,,Departed
+GVA,2026-11-08,JFA 32A,JFA32A,Jetfly Aviation,,,,,Departed
+GVA,2026-11-08,TU 701,TAR701,Tunisair,,,,,Departed
+GVA,2026-11-08,U2 7108,EJU31UV,easyJet,,,,,Departed
+GVA,2026-11-08,LG 8366,LGL8366,Luxair,,,,,Departed
+GVA,2026-11-08,AT 931,,Royal Air Maroc,,,,,Departed
+GVA,2026-11-08,EC 7108,EJU31UV,EasyJet Europe,,,,,Departed
+GVA,2026-11-08,LH 2387,DLH6HH,Lufthansa,,,,,Departed
+GVA,2026-11-08,LX 3688,,SWISS,,,,,Departed
+GVA,2026-11-08,SK 9842,,SAS,,,,,Departed
+GVA,2026-11-08,MU 1694,,China Eastern,,,,,Departed
+GVA,2026-11-08,AM 6082,,Aeromexico,,,,,Departed
+GVA,2026-11-08,BT 5627,,airBaltic,,,,,Departed
+GVA,2026-11-08,UU 8143,,Air Austral,,,,,Departed
+GVA,2026-11-08,MK 9599,,Air Mauritius,,,,,Departed
+GVA,2026-11-08,KQ 3215,,Kenya,,,,,Departed
+GVA,2026-11-08,LX 4612,,SWISS,,,,,Departed
+GVA,2026-11-08,KE 6468,,Korean Air,,,,,Departed
+GVA,2026-11-08,G3 5266,,Gol,,,,,Departed
+GVA,2026-11-08,AF 1143,AFR94XT,Air France,,,,,Departed
+GVA,2026-11-08,ECA 3ER,ECA3ER,Excellent Air,,,,,Departed
+GVA,2026-11-08,U2 2546,EZY96JV,easyJet,,,,,Departed
+GVA,2026-11-08,SN 2722,BEL7SM,Brussels,,,,,Departed
+GVA,2026-11-08,LX 4522,,SWISS,,,,,Departed
+GVA,2026-11-08,DS 1465,EZS63AC,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 1465,EZS63AC,easyJet,,,,,Departed
+GVA,2026-11-08,PC 956,PGT7NW,Pegasus,,,,,Departed
+GVA,2026-11-08,U2 1293,EJU46PL,easyJet,,,,,Departed
+GVA,2026-11-08,EC 1293,EJU46PL,EasyJet Europe,,,,,Departed
+GVA,2026-11-08,FSF 691M,FSF691M,FSF,,,,,Departed
+GVA,2026-11-08,U2 8492,EZY8492,easyJet,,,,,Departed
+GVA,2026-11-08,QR 5511,,Qatar,,,,,Departed
+GVA,2026-11-08,IB 5069,,Iberia,,,,,Departed
+GVA,2026-11-08,LL 5069,,LL,,,,,Departed
+GVA,2026-11-08,SK 6657,,SAS,,,,,Departed
+GVA,2026-11-08,MH 5688,,Malaysia,,,,,Departed
+GVA,2026-11-08,AM 6394,,Aeromexico,,,,,Departed
+GVA,2026-11-08,KQ 1936,,Kenya,,,,,Departed
+GVA,2026-11-08,KE 6418,,Korean Air,,,,,Departed
+GVA,2026-11-08,6E 8050,,IndiGo,,,,,Departed
+GVA,2026-11-08,KL 1936,KLM1936,KLM,,,,,Departed
+GVA,2026-11-08,VY 1125,VLG5KB,Vueling,,,,,Departed
+GVA,2026-11-08,EC 1289,EJU98NR,EasyJet Europe,,,,,Departed
+GVA,2026-11-08,U2 1289,EJU98NR,easyJet,,,,,Departed
+GVA,2026-11-08,OS 154,AUA15G,Austrian,,,,,Departed
+GVA,2026-11-08,AI 8432,,Air India,,,,,Departed
+GVA,2026-11-08,LX 3564,,SWISS,,,,,Departed
+GVA,2026-11-08,U2 1455,EZS23WP,easyJet,,,,,Departed
+GVA,2026-11-08,DS 1455,EZS23WP,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,LX 356,SWR316T,SWISS,,,,,Departed
+GVA,2026-11-08,PAV 651,PAV651,PAV,,,,,Departed
+GVA,2026-11-08,U2 1537,EZS37RY,easyJet,,,,,Departed
+GVA,2026-11-08,DS 1537,EZS37RY,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 1403,EZS39MF,easyJet,,,,,Departed
+GVA,2026-11-08,DS 1403,EZS39MF,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,AF 1343,AFR1343,Air France,,,,,Departed
+GVA,2026-11-08,U2 1758,EJU75VF,easyJet,,,,,Departed
+GVA,2026-11-08,MK 9551,,Air Mauritius,,,,,Departed
+GVA,2026-11-08,KQ 3153,,Kenya,,,,,Departed
+GVA,2026-11-08,LX 4614,,SWISS,,,,,Departed
+GVA,2026-11-08,G3 5238,,Gol,,,,,Departed
+GVA,2026-11-08,UU 8343,,Air Austral,,,,,Departed
+GVA,2026-11-08,SK 9839,,SAS,,,,,Departed
+GVA,2026-11-08,AM 6179,,Aeromexico,,,,,Departed
+GVA,2026-11-08,KE 6346,,Korean Air,,,,,Departed
+GVA,2026-11-08,EC 1758,EJU75VF,EasyJet Europe,,,,,Departed
+GVA,2026-11-08,VJT 437,VJT437,VistaJet,,,,,Departed
+GVA,2026-11-08,MS 9535,,EgyptAir,,,,,Departed
+GVA,2026-11-08,LX 4584,,SWISS,,,,,Departed
+GVA,2026-11-08,S4 8349,,Azores,,,,,Departed
+GVA,2026-11-08,AD 7222,,Azul,,,,,Departed
+GVA,2026-11-08,LO 4711,,LOT - Polish,,,,,Departed
+GVA,2026-11-08,AC 2664,,Air Canada,,,,,Departed
+GVA,2026-11-08,TP 943,TAP94GT,TAP Air Portugal,,,,,Departed
+GVA,2026-11-08,SQ 2075,,Singapore,,,,,Departed
+GVA,2026-11-08,LX 3672,,SWISS,,,,,Departed
+GVA,2026-11-08,ET 1564,,ET,,,,,Departed
+GVA,2026-11-08,TG 7649,,Thai  International,,,,,Departed
+GVA,2026-11-08,NH 6106,,ANA,,,,,Departed
+GVA,2026-11-08,LH 1221,DLH3K,Lufthansa,,,,,Departed
+GVA,2026-11-08,A3 857,,Aegean,,,,,Departed
+GVA,2026-11-08,LX 4336,,SWISS,,,,,Departed
+GVA,2026-11-08,WY 5772,,Oman Air,,,,,Departed
+GVA,2026-11-08,PK 5920,,Pakistan International,,,,,Departed
+GVA,2026-11-08,TG 9023,,Thai  International,,,,,Departed
+GVA,2026-11-08,6E 4138,,IndiGo,,,,,Departed
+GVA,2026-11-08,TK 1920,THY1DM,Turkish,,,,,Departed
+GVA,2026-11-08,LX 528,SWR528,SWISS,,,,,Departed
+GVA,2026-11-08,DS 1469,EZS62TU,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 1469,EZS62TU,easyJet,,,,,Departed
+GVA,2026-11-08,LA 1680,,LATAM,,,,,Departed
+GVA,2026-11-08,AA 8790,,American,,,,,Departed
+GVA,2026-11-08,IB 618,,Iberia,,,,,Departed
+GVA,2026-11-08,UX 1666,AEA48ZL,Air Europa,,,,,Departed
+GVA,2026-11-08,AZ 577,ITY577,ITA,,,,,Departed
+GVA,2026-11-08,LX 3436,,SWISS,,,,,Departed
+GVA,2026-11-08,V7 6119,,Volotea,,,,,Departed
+GVA,2026-11-08,ET 4379,,ET,,,,,Departed
+GVA,2026-11-08,EY 3029,,Etihad,,,,,Departed
+GVA,2026-11-08,YW 6VL,IBE06VL,Air Nostrum,,,,,Departed
+GVA,2026-11-08,IB 6VL,IBE06VL,Iberia,,,,,Departed
+GVA,2026-11-08,AY 1534,FIN53Y,Finnair,,,,,Departed
+GVA,2026-11-08,DS 1413,EZS93HL,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 2190,EZY94BW,easyJet,,,,,Departed
+GVA,2026-11-08,U2 1413,EZS93HL,easyJet,,,,,Departed
+GVA,2026-11-08,LX 2817,SWR2EZ,SWISS,,,,,Departed
+GVA,2026-11-08,U2 8510,EZS8510,easyJet,,,,,Departed
+GVA,2026-11-08,LX 798,SWR798,SWISS,,,,,Departed
+GVA,2026-11-08,DS 8510,EZS8510,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,SN 5102,,Brussels,,,,,Departed
+GVA,2026-11-08,U2 1347,EZS86TB,easyJet,,,,,Departed
+GVA,2026-11-08,DS 1347,EZS86TB,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,G3 5634,,Gol,,,,,Departed
+GVA,2026-11-08,6E 3337,,IndiGo,,,,,Departed
+GVA,2026-11-08,SK 6857,,SAS,,,,,Departed
+GVA,2026-11-08,AM 6395,,Aeromexico,,,,,Departed
+GVA,2026-11-08,KL 1938,KLM1938,KLM,,,,,Departed
+GVA,2026-11-08,DS 1342,EZS16CR,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 1342,EZS16CR,easyJet,,,,,Departed
+GVA,2026-11-08,DS 1327,EZS72RZ,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 1327,EZS72RZ,easyJet,,,,,Departed
+GVA,2026-11-08,LO 416,LOT416,LOT - Polish,,,,,Departed
+GVA,2026-11-08,EGT 534,EGT534,EGT,,,,,Departed
+GVA,2026-11-08,LX 3566,,SWISS,,,,,Departed
+GVA,2026-11-08,LH 2389,DLH6HM,Lufthansa,,,,,Departed
+GVA,2026-11-08,LX 3690,,SWISS,,,,,Departed
+GVA,2026-11-08,BA 745,BAW745,British,,,,,Departed
+GVA,2026-11-08,AA 6710,,American,,,,,Departed
+GVA,2026-11-08,QR 9796,,Qatar,,,,,Departed
+GVA,2026-11-08,OS 156,AUA156,Austrian,,,,,Departed
+GVA,2026-11-08,DS 1357,EZS79WA,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,DS 1357,EZS79WA,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,U2 1357,EZS79WA,easyJet,,,,,Departed
+GVA,2026-11-08,U2 1357,EZS79WA,easyJet,,,,,Departed
+GVA,2026-11-08,SK 618,SAS28K,SAS,,,,,Departed
+GVA,2026-11-08,LX 2819,SWR9TP,SWISS,,,,,Departed
+GVA,2026-11-08,JU 329,,Air Serbia,,,,,Departed
+GVA,2026-11-08,MK 9597,,Air Mauritius,,,,,Departed
+GVA,2026-11-08,G3 5205,,Gol,,,,,Departed
+GVA,2026-11-08,AM 6081,,Aeromexico,,,,,Departed
+GVA,2026-11-08,LX 4618,,SWISS,,,,,Departed
+GVA,2026-11-08,AF 1043,,Air France,,,,,Departed
+GVA,2026-11-08,QF 8084,,Qantas,,,,,Departed
+GVA,2026-11-08,U2 7110,EJU97TU,easyJet,,,,,Departed
+GVA,2026-11-08,EK 84,UAE29U,Emirates,,,,,Departed
+GVA,2026-11-08,EC 7110,EJU97TU,EasyJet Europe,,,,,Departed
+GVA,2026-11-08,U2 8506,,easyJet,,,,,Departed
+GVA,2026-11-08,JU 32A,ASL32A,Air Serbia,,,,,Departed
+GVA,2026-11-08,LA 1693,,LATAM,,,,,Departed
+GVA,2026-11-08,AY 5638,,Finnair,,,,,Departed
+GVA,2026-11-08,VY 5281,,Vueling,,,,,Departed
+GVA,2026-11-08,AA 8694,,American,,,,,Departed
+GVA,2026-11-08,LX 358,SWR5EG,SWISS,,,,,Departed
+GVA,2026-11-08,IB 620,,Iberia,,,,,Departed
+GVA,2026-11-08,A5 19SQ,HOP19SQ,HOP!,,,,,Departed
+GVA,2026-11-08,IB 6SK,IBE06SK,Iberia,,,,,Departed
+GVA,2026-11-08,YW 6SK,IBE06SK,Air Nostrum,,,,,Departed
+GVA,2026-11-08,EC 5186,EJU94HQ,EasyJet Europe,,,,,Departed
+GVA,2026-11-08,U2 5186,EJU94HQ,easyJet,,,,,Departed
+GVA,2026-11-08,U2 95RY,EZY95RY,easyJet,,,,,Departed
+GVA,2026-11-08,DS 95RY,EZY95RY,Easyjet Switzerland,,,,,Departed
+GVA,2026-11-08,EC 95RY,EZY95RY,EasyJet Europe,,,,,Departed
+GVA,2026-11-08,SN 2724,BEL72R,Brussels,,,,,Departed
+GVA,2026-11-08,LX 4550,,SWISS,,,,,Departed
+GVA,2026-11-08,AA 7245,,American,,,,,Departed
+GVA,2026-11-08,QR 5937,,Qatar,,,,,Departed
+GVA,2026-11-08,BA 749,BAW749,British,,,,,Departed
+GVA,2026-11-08,ET 729,ETH729,Ethiopian,,,,,Departed
+BTS,2026-11-08,6D 6612,TVQ6612,Travel Service Slovensko,,,,,Departed
+BTS,2026-11-08,W6 7001,WZZ9XU,Wizz Air,,,,,Departed
+BTS,2026-11-08,W6 801,WZZ801,Wizz Air,,,,,Departed
+BTS,2026-11-08,W6 7033,WZZ663,Wizz Air,,,,,Departed
+BTS,2026-11-08,FR 5719,RYR75UD,Ryanair,,,,,Departed
+BTS,2026-11-08,FR 1622,RYR1622,Ryanair,,,,,Departed
+BTS,2026-11-08,FR 7861,RYR746Q,Ryanair,,,,,Departed
+BTS,2026-11-08,FR 7154,RYR1RN,Ryanair,,,,,Departed
+BTS,2026-11-08,W6 7021,WZZ984,Wizz Air,,,,,Departed
+BTS,2026-11-08,W6 7069,WZZ5354,Wizz Air,,,,,Departed
+BTS,2026-11-08,FR 4223,RYR7VF,Ryanair,,,,,Departed
+BTS,2026-11-08,FR 62,RYR14RD,Ryanair,,,,,Departed
+BTS,2026-11-08,FR 1529,RYR6LC,Ryanair,,,,,Departed
+BTS,2026-11-08,W6 7005,WZZ8PQ,Wizz Air,,,,,Departed
+BTS,2026-11-08,FR 2853,RYR311W,Ryanair,,,,,Departed
+BTS,2026-11-08,OMCMJ,OMCMJ,Unknown/Private owner,,,,,Departed
+BTS,2026-11-08,FR 5837,RYR8BL,Ryanair,,,,,Departed
+BTS,2026-11-08,PC 412,PGT87XP,Pegasus,,,,,Departed
+BTS,2026-11-08,QU 4277,UTN4277,Azur Air Ukraine,,,,,Departed
+BTS,2026-11-08,FR 4225,RYR9QJ,Ryanair,,,,,Departed
+BTS,2026-11-08,FR 6831,RYR62FW,Ryanair,,,,,Departed
+BTS,2026-11-08,OMJGA,OMJGA,Unknown/Private owner,,,,,Departed
+BTS,2026-11-08,W6 7045,,Wizz Air,,,,,Unknown
+BTS,2026-11-08,W6 1424,WZZ31YS,Wizz Air,,,,,Departed
+BTS,2026-11-08,W6 7003,WZZ234,Wizz Air,,,,,Departed
+BTS,2026-11-08,W6 7025,WZZ4T,Wizz Air,,,,,Departed
+BTS,2026-11-08,FR 3574,RYR3574,Ryanair,,,,,Departed
+BTS,2026-11-08,FR 4227,,Ryanair,,,,,Departed
+BTS,2026-11-08,W6 7061,WZZ9WB,Wizz Air,,,,,Departed
+BTS,2026-11-08,FR 3328,RYR1GN,Ryanair,,,,,Departed
+BTS,2026-11-08,FR 3637,RYR2EP,Ryanair,,,,,Departed
+BTS,2026-11-08,FR 5699,RYR37DK,Ryanair,,,,,Departed
+BTS,2026-11-08,W6 7013,WZZ895,Wizz Air,,,,,Departed
+BTS,2026-11-08,FR 35,RYR472B,Ryanair,,,,,Departed
+BTS,2026-11-08,W6 7017,WZZ6ZT,Wizz Air,,,,,Departed
+BTS,2026-11-08,FR 5889,RYR5889,Ryanair,,,,,Departed
+BTS,2026-11-08,ZT 32,AWC32,Titan Airways,,,,,Departed
+BTS,2026-11-08,FR 9304,RYR66PT,Ryanair,,,,,Departed
+BTS,2026-11-08,W6 4762,WZZ574,Wizz Air,,,,,Departed

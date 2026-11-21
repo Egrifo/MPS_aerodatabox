@@ -1,0 +1,16 @@
+airport,date,direction,flight_number,callsign,airline,destination_iata,destination_name,departure_time,arrival_time,scheduled_time,revised_time,status
+BTS,2026-11-11,Departure,QY 5534,BCS5534,EAT Leipzig,,,,,,,Departed
+BTS,2026-11-11,Departure,W6 7023,,Wizz Air,,,,2026-11-11 08:45+01:00,,,Expected
+BTS,2026-11-11,Departure,W6 7001,,Wizz Air,,,,2026-11-11 06:55+01:00,,,Unknown
+BTS,2026-11-11,Departure,FR 62,,Ryanair,,,,2026-11-11 08:50+00:00,,,Expected
+BTS,2026-11-11,Departure,W6 7021,,Wizz Air,,,,2026-11-11 11:25+01:00,,,Expected
+BTS,2026-11-11,Departure,W6 7069,,Wizz Air,,,,2026-11-11 10:45+00:00,,,Expected
+BTS,2026-11-11,Departure,FR 1529,,Ryanair,,,,2026-11-11 13:00+01:00,,,Expected
+BTS,2026-11-11,Departure,PC 412,,Pegasus,,,,2026-11-11 17:10+03:00,,,Expected
+BTS,2026-11-11,Departure,FR 3574,,Ryanair,,,,2026-11-11 16:50+00:00,,,Expected
+BTS,2026-11-11,Departure,W6 2613,,Wizz Air,,,,2026-11-11 21:20+04:00,,,Expected
+BTS,2026-11-11,Departure,W6 7003,,Wizz Air,,,,2026-11-11 16:50+01:00,,,Expected
+BTS,2026-11-11,Departure,W4 3996,,Wizz Air Malta,,,,2026-11-11 18:35+02:00,,,Expected
+BTS,2026-11-11,Departure,FR 4225,,Ryanair,,,,2026-11-11 17:50+01:00,,,Expected
+BTS,2026-11-11,Departure,W6 7061,,Wizz Air,,,,2026-11-11 21:35+02:00,,,Expected
+BTS,2026-11-11,Departure,W6 7035,,Wizz Air,,,,2026-11-11 23:10+02:00,,,Expected

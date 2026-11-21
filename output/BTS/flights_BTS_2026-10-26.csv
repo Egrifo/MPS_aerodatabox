@@ -1,0 +1,41 @@
+airport,date,direction,flight_number,callsign,airline,destination_iata,destination_name,departure_time,arrival_time,scheduled_time,revised_time,status
+BTS,2026-10-26,Departure,QY 229P,BCS229P,EAT Leipzig,,,,2026-10-26 00:50+01:00,,,Departed
+BTS,2026-10-26,Departure,FR 9304,RYR66PT,Ryanair,,,,2026-10-26 01:18+00:00,,,Departed
+BTS,2026-10-26,Departure,W6 4762,WZZ574,Wizz Air,,,,2026-10-26 01:45+01:00,,,Departed
+BTS,2026-10-26,Departure,W6 7023,,Wizz Air,,,,2026-10-26 08:21+01:00,,,Departed
+BTS,2026-10-26,Departure,W6 7001,WZZ9XU,Wizz Air,,,,2026-10-26 06:37+01:00,,,Departed
+BTS,2026-10-26,Departure,FR 5719,,Ryanair,,,,2026-10-26 08:29+01:00,,,Departed
+BTS,2026-10-26,Departure,FR 5761,RYR57UP,Ryanair,,,,2026-10-26 08:20+01:00,,,Departed
+BTS,2026-10-26,Departure,W6 7033,WZZ663,Wizz Air,,,,2026-10-26 07:57+01:00,,,Departed
+BTS,2026-10-26,Departure,FR 5733,RYR37LC,Ryanair,,,,2026-10-26 08:16+01:00,,,Departed
+BTS,2026-10-26,Departure,FR 1622,RYR1622,Ryanair,,,,2026-10-26 08:28+01:00,,,Departed
+BTS,2026-10-26,Departure,OMFRI,OMFRI,Unknown/Private owner,,,,,,,Departed
+BTS,2026-10-26,Departure,W6 7021,,Wizz Air,,,,2026-10-26 11:29+01:00,,,Departed
+BTS,2026-10-26,Departure,W6 7069,WZZ984,Wizz Air,,,,2026-10-26 10:36+00:00,,,Departed
+BTS,2026-10-26,Departure,FR 5699,,Ryanair,,,,2026-10-26 13:26+01:00,,,Departed
+BTS,2026-10-26,Departure,FR 4223,,Ryanair,,,,2026-10-26 13:58+00:00,,,Departed
+BTS,2026-10-26,Departure,FR 5803,RYR37DK,Ryanair,,,,2026-10-26 13:00+01:00,,,Departed
+BTS,2026-10-26,Departure,OMFRI,OMFRI,Unknown/Private owner,,,,,,,Departed
+BTS,2026-10-26,Departure,FR 3637,RYR2EP,Ryanair,,,,2026-10-26 13:30+01:00,,,Departed
+BTS,2026-10-26,Departure,FR 2171,RYR6PJ,Ryanair,,,,2026-10-26 15:40+02:00,,,Departed
+BTS,2026-10-26,Departure,W6 7031,WZZ376,Wizz Air,,,,2026-10-26 15:50+01:00,,,Departed
+BTS,2026-10-26,Departure,QU 4225,UTN4225,Azur Air Ukraine,,,,,,,Departed
+BTS,2026-10-26,Departure,FR 4219,RYR355G,Ryanair,,,,2026-10-26 17:43+00:00,,,Departed
+BTS,2026-10-26,Departure,FR 4225,RYR9QJ,Ryanair,,,,2026-10-26 15:52+01:00,,,Departed
+BTS,2026-10-26,Departure,OKEAV,OKEAV,Unknown/Private owner,,,,,,,Departed
+BTS,2026-10-26,Departure,W6 7003,WZZ234,Wizz Air,,,,2026-10-26 16:27+01:00,,,Departed
+BTS,2026-10-26,Departure,W6 7025,,Wizz Air,,,,2026-10-26 19:07+01:00,,,Departed
+BTS,2026-10-26,Departure,W4 3996,WMT7DH,Wizz Air Malta,,,,2026-10-26 18:35+02:00,,,Departed
+BTS,2026-10-26,Departure,FR 5776,,Ryanair,,,,2026-10-26 19:35+01:00,,,Departed
+BTS,2026-10-26,Departure,W6 2617,,Wizz Air,,,,2026-10-26 22:30+03:00,,,Unknown
+BTS,2026-10-26,Departure,FR 35,RYR28SU,Ryanair,,,,2026-10-26 18:24+00:00,,,Departed
+BTS,2026-10-26,Departure,FR 6524,RYR6524,Ryanair,,,,2026-10-26 19:37+01:00,,,Departed
+BTS,2026-10-26,Departure,PC 412,PGT87XP,Pegasus,,,,2026-10-26 22:00+03:00,,,Departed
+BTS,2026-10-26,Departure,FR 5759,RYR92NT,Ryanair,,,,2026-10-26 19:30+01:00,,,Departed
+BTS,2026-10-26,Departure,W6 7017,WZZ6ZT,Wizz Air,,,,2026-10-26 20:50+01:00,,,Departed
+BTS,2026-10-26,Departure,FR 1871,RYR57BQ,Ryanair,,,,2026-10-26 21:13+01:00,,,Departed
+BTS,2026-10-26,Departure,FR 763,RYR226J,Ryanair,,,,2026-10-26 21:53+01:00,,,Departed
+BTS,2026-10-26,Departure,FR 763,RYR226J,Ryanair,,,,2026-10-26 21:53+01:00,,,Departed
+BTS,2026-10-26,Departure,W6 7035,WZZ633,Wizz Air,,,,2026-10-26 22:55+02:00,,,Departed
+BTS,2026-10-26,Departure,FR 2315,RYR35JF,Ryanair,,,,2026-10-26 23:33+00:00,,,Departed
+BTS,2026-10-26,Departure,QY 13J,BCS13J,EAT Leipzig,,,,2026-10-26 23:44+01:00,,,Departed

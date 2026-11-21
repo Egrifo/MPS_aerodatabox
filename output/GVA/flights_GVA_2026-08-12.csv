@@ -1,0 +1,508 @@
+airport,date,direction,flight_number,callsign,airline,destination_iata,destination_name,departure_time,arrival_time,scheduled_time,revised_time,status
+GVA,2026-08-12,Departure,DS 1451,EZS25QK,Easyjet Switzerland,,,,2026-08-12 07:06+01:00,,,Departed
+GVA,2026-08-12,Departure,EC 1297,EJU53LX,EasyJet Europe,,,,2026-08-12 07:57+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1317,EJU1317,easyJet,,,,2026-08-12 08:12+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1443,,easyJet,,,,2026-08-12 08:05+02:00,,,Canceled
+GVA,2026-08-12,Departure,DS 1397,EZS1397,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,EC 1317,EJU1317,EasyJet Europe,,,,2026-08-12 08:12+02:00,,,Departed
+GVA,2026-08-12,Departure,SQ 2905,,Singapore,,,,2026-08-12 06:41+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1493,EZS12XR,easyJet,,,,2026-08-12 08:30+02:00,,,Departed
+GVA,2026-08-12,Departure,DS 1493,EZS12XR,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,U2 1451,EZS25QK,easyJet,,,,2026-08-12 07:06+01:00,,,Departed
+GVA,2026-08-12,Departure,DS 1443,,Easyjet Switzerland,,,,2026-08-12 08:05+02:00,,,Canceled
+GVA,2026-08-12,Departure,DS 1553,EZS52HV,Easyjet Switzerland,,,,2026-08-12 07:57+01:00,,,Departed
+GVA,2026-08-12,Departure,LX 2801,SWR2EY,SWISS,,,,2026-08-12 06:41+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1397,EZS1397,easyJet,,,,2026-08-12 07:15+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1553,EZS52HV,easyJet,,,,2026-08-12 07:57+01:00,,,Departed
+GVA,2026-08-12,Departure,U2 1297,EJU53LX,easyJet,,,,2026-08-12 07:57+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1429,EZS86DT,easyJet,,,,2026-08-12 07:47+02:00,,,Departed
+GVA,2026-08-12,Departure,S4 8354,,Azores,,,,2026-08-12 07:45+01:00,,,Departed
+GVA,2026-08-12,Departure,AD 7267,,Azul,,,,2026-08-12 07:45+01:00,,,Departed
+GVA,2026-08-12,Departure,LX 4594,,SWISS,,,,2026-08-12 07:45+01:00,,,Departed
+GVA,2026-08-12,Departure,DS 1471,EZS49KC,Easyjet Switzerland,,,,2026-08-12 10:03+03:00,,,Departed
+GVA,2026-08-12,Departure,U2 1471,EZS49KC,easyJet,,,,2026-08-12 10:03+03:00,,,Departed
+GVA,2026-08-12,Departure,TP 945,TAP945,TAP Air Portugal,,,,2026-08-12 07:45+01:00,,,Departed
+GVA,2026-08-12,Departure,EC 1293,EJU42GT,EasyJet Europe,,,,2026-08-12 07:34+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1293,EJU42GT,easyJet,,,,2026-08-12 07:34+02:00,,,Departed
+GVA,2026-08-12,Departure,DS 1429,EZS86DT,Easyjet Switzerland,,,,2026-08-12 07:47+02:00,,,Departed
+GVA,2026-08-12,Departure,VY 5153,,Vueling,,,,2026-08-12 08:07+02:00,,,Departed
+GVA,2026-08-12,Departure,AA 8532,,American,,,,2026-08-12 08:07+02:00,,,Departed
+GVA,2026-08-12,Departure,LA 5400,,LATAM,,,,2026-08-12 08:07+02:00,,,Departed
+GVA,2026-08-12,Departure,IB 622,IBE06SF,Iberia,,,,2026-08-12 08:07+02:00,,,Departed
+GVA,2026-08-12,Departure,LX 2356,SWR2AH,SWISS,,,,2026-08-12 09:35+03:00,,,Departed
+GVA,2026-08-12,Departure,A3 2002,,Aegean,,,,2026-08-12 09:35+03:00,,,Departed
+GVA,2026-08-12,Departure,U2 1583,EZS14ZV,easyJet,,,,2026-08-12 07:45+01:00,,,Departed
+GVA,2026-08-12,Departure,LH 5743,,Lufthansa,,,,2026-08-12 07:36+02:00,,,Departed
+GVA,2026-08-12,Departure,UA 9753,,United,,,,2026-08-12 07:36+02:00,,,Departed
+GVA,2026-08-12,Departure,SQ 2950,,Singapore,,,,2026-08-12 07:36+02:00,,,Departed
+GVA,2026-08-12,Departure,NH 6763,,ANA,,,,2026-08-12 07:36+02:00,,,Departed
+GVA,2026-08-12,Departure,AC 6845,,Air Canada,,,,2026-08-12 07:36+02:00,,,Departed
+GVA,2026-08-12,Departure,LX 1080,SWR104C,SWISS,,,,2026-08-12 07:36+02:00,,,Departed
+GVA,2026-08-12,Departure,DS 1583,EZS14ZV,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,U2 8486,EZS51PA,easyJet,,,,2026-08-12 07:35+01:00,,,Departed
+GVA,2026-08-12,Departure,DS 8486,EZS51PA,Easyjet Switzerland,,,,2026-08-12 07:35+01:00,,,Departed
+GVA,2026-08-12,Departure,DS 1559,EZS58WL,Easyjet Switzerland,,,,2026-08-12 09:00+01:00,,,Departed
+GVA,2026-08-12,Departure,U2 1559,EZS58WL,easyJet,,,,2026-08-12 09:00+01:00,,,Departed
+GVA,2026-08-12,Departure,U2 1291,EJU82PN,easyJet,,,,2026-08-12 09:00+02:00,,,Departed
+GVA,2026-08-12,Departure,EC 1291,EJU82PN,EasyJet Europe,,,,2026-08-12 09:00+02:00,,,Departed
+GVA,2026-08-12,Departure,DS 1545,EZS1545,Easyjet Switzerland,,,,2026-08-12 07:45+01:00,,,Departed
+GVA,2026-08-12,Departure,LX 1430,SWR955M,SWISS,,,,2026-08-12 09:10+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1545,EZS1545,easyJet,,,,2026-08-12 07:45+01:00,,,Departed
+GVA,2026-08-12,Departure,JFA 28F,JFA99X,Jetfly Aviation,,,,,,,Departed
+GVA,2026-08-12,Departure,UA 9745,,United,,,,,,,Departed
+GVA,2026-08-12,Departure,AZ 3851,,ITA,,,,,,,Departed
+GVA,2026-08-12,Departure,EY 6215,,Etihad,,,,,,,Departed
+GVA,2026-08-12,Departure,SQ 2900,,Singapore,,,,,,,Departed
+GVA,2026-08-12,Departure,SK 6615,,SAS,,,,2026-08-12 08:38+02:00,,,Departed
+GVA,2026-08-12,Departure,KQ 1924,,Kenya,,,,2026-08-12 08:38+02:00,,,Departed
+GVA,2026-08-12,Departure,DL 9551,,Delta Air Lines,,,,2026-08-12 08:38+02:00,,,Departed
+GVA,2026-08-12,Departure,AM 6647,,Aeromexico,,,,2026-08-12 08:38+02:00,,,Departed
+GVA,2026-08-12,Departure,DL 9535,,Delta Air Lines,,,,2026-08-12 08:38+02:00,,,Departed
+GVA,2026-08-12,Departure,6E 3335,,IndiGo,,,,2026-08-12 08:38+02:00,,,Departed
+GVA,2026-08-12,Departure,DL 9548,,Delta Air Lines,,,,2026-08-12 08:38+02:00,,,Departed
+GVA,2026-08-12,Departure,LX 2805,SWR4DX,SWISS,,,,2026-08-12 08:34+02:00,,,Departed
+GVA,2026-08-12,Departure,KL 1928,KLM1928,KLM,,,,2026-08-12 08:38+02:00,,,Departed
+GVA,2026-08-12,Departure,VN 3141,,Vietnam,,,,2026-08-12 08:33+02:00,,,Departed
+GVA,2026-08-12,Departure,MU 1681,,China Eastern,,,,2026-08-12 08:33+02:00,,,Departed
+GVA,2026-08-12,Departure,SK 9837,,SAS,,,,2026-08-12 08:33+02:00,,,Departed
+GVA,2026-08-12,Departure,KQ 3029,,Kenya,,,,2026-08-12 08:33+02:00,,,Departed
+GVA,2026-08-12,Departure,UX 2209,,Air Europa,,,,2026-08-12 08:33+02:00,,,Departed
+GVA,2026-08-12,Departure,MK 9555,,Air Mauritius,,,,2026-08-12 08:33+02:00,,,Departed
+GVA,2026-08-12,Departure,G3 5204,,Gol,,,,2026-08-12 08:33+02:00,,,Departed
+GVA,2026-08-12,Departure,AM 6136,,Aeromexico,,,,2026-08-12 08:33+02:00,,,Departed
+GVA,2026-08-12,Departure,LX 4600,,SWISS,,,,2026-08-12 08:33+02:00,,,Departed
+GVA,2026-08-12,Departure,DL 8521,,Delta Air Lines,,,,2026-08-12 08:33+02:00,,,Departed
+GVA,2026-08-12,Departure,BT 5792,,airBaltic,,,,2026-08-12 08:33+02:00,,,Departed
+GVA,2026-08-12,Departure,AF 1243,AFR79JE,Air France,,,,2026-08-12 08:33+02:00,,,Departed
+GVA,2026-08-12,Departure,QR 9759,,Qatar,,,,2026-08-12 08:01+01:00,,,Departed
+GVA,2026-08-12,Departure,AA 6864,,American,,,,2026-08-12 08:01+01:00,,,Departed
+GVA,2026-08-12,Departure,LX 2370,,SWISS,,,,2026-08-12 08:55+02:00,,,Departed
+GVA,2026-08-12,Departure,BA 757,BAW757A,British,,,,2026-08-12 08:01+01:00,,,Departed
+GVA,2026-08-12,Departure,UA 9736,,United,,,,2026-08-12 08:38+01:00,,,Departed
+GVA,2026-08-12,Departure,ET 728,ETH728,Ethiopian,,,,2026-08-12 08:45+01:00,,,Departed
+GVA,2026-08-12,Departure,LX 352,SWR49M,SWISS,,,,2026-08-12 08:38+01:00,,,Departed
+GVA,2026-08-12,Departure,DS 1449,EZS1449,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,LX 2350,,SWISS,,,,2026-08-12 11:45+03:00,,,Departed
+GVA,2026-08-12,Departure,U2 1449,EZS1449,easyJet,,,,2026-08-12 09:45+02:00,,,Departed
+GVA,2026-08-12,Departure,UAG 202,UAG202,UAG,,,,,,,Departed
+GVA,2026-08-12,Departure,UA 9892,,United,,,,2026-08-12 09:33+02:00,,,Departed
+GVA,2026-08-12,Departure,SQ 2840,,Singapore,,,,2026-08-12 09:33+02:00,,,Departed
+GVA,2026-08-12,Departure,LX 4552,,SWISS,,,,2026-08-12 09:33+02:00,,,Departed
+GVA,2026-08-12,Departure,AC 6318,,Air Canada,,,,2026-08-12 09:33+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 7282,EJU19DC,easyJet,,,,2026-08-12 09:56+02:00,,,Departed
+GVA,2026-08-12,Departure,SN 2712,BEL7NL,Brussels,,,,2026-08-12 09:33+02:00,,,Departed
+GVA,2026-08-12,Departure,EC 7282,EJU19DC,EasyJet Europe,,,,2026-08-12 09:56+02:00,,,Departed
+GVA,2026-08-12,Departure,LH 1213,DLH9K,Lufthansa,,,,2026-08-12 09:30+02:00,,,Departed
+GVA,2026-08-12,Departure,SQ 2201,,Singapore,,,,,,,Departed
+GVA,2026-08-12,Departure,NH 6102,,ANA,,,,,,,Departed
+GVA,2026-08-12,Departure,LX 3684,,SWISS,,,,,,,Departed
+GVA,2026-08-12,Departure,CA 6088,,Air China,,,,,,,Departed
+GVA,2026-08-12,Departure,AC 9540,,Air Canada,,,,,,,Departed
+GVA,2026-08-12,Departure,LH 2383,DLH5JF,Lufthansa,,,,2026-08-12 09:45+02:00,,,Departed
+GVA,2026-08-12,Departure,XQ 1429,SXS2FG,Sun Express,,,,2026-08-12 13:45+03:00,,,Departed
+GVA,2026-08-12,Departure,KL 1930,KLM1930,KLM,,,,2026-08-12 10:16+02:00,,,Departed
+GVA,2026-08-12,Departure,DL 9662,,Delta Air Lines,,,,2026-08-12 10:16+02:00,,,Departed
+GVA,2026-08-12,Departure,KQ 1926,,Kenya,,,,2026-08-12 10:16+02:00,,,Departed
+GVA,2026-08-12,Departure,AM 6526,,Aeromexico,,,,2026-08-12 10:16+02:00,,,Departed
+GVA,2026-08-12,Departure,SK 6617,,SAS,,,,2026-08-12 10:16+02:00,,,Departed
+GVA,2026-08-12,Departure,MU 1786,,China Eastern,,,,2026-08-12 10:16+02:00,,,Departed
+GVA,2026-08-12,Departure,6E 3336,,IndiGo,,,,2026-08-12 10:16+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 7024,EJU16WK,easyJet,,,,2026-08-12 11:27+02:00,,,Departed
+GVA,2026-08-12,Departure,EC 7024,EJU16WK,EasyJet Europe,,,,2026-08-12 11:27+02:00,,,Departed
+GVA,2026-08-12,Departure,VJT 443,VJT443,VistaJet,,,,,,,Departed
+GVA,2026-08-12,Departure,LX 3216,,SWISS,,,,,,,Departed
+GVA,2026-08-12,Departure,SN 9022,,Brussels,,,,,,,Departed
+GVA,2026-08-12,Departure,LH 7953,,Lufthansa,,,,,,,Departed
+GVA,2026-08-12,Departure,AC 3794,,Air Canada,,,,,,,Departed
+GVA,2026-08-12,Departure,DS 1439,EZS63KJ,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,U2 1439,EZS63KJ,easyJet,,,,2026-08-12 10:23+02:00,,,Departed
+GVA,2026-08-12,Departure,UA 957,UAL957,United,,,,2026-08-12 11:36-04:00,,,Departed
+GVA,2026-08-12,Departure,WB 1439,,RwandAir,,,,2026-08-12 16:53+03:00,,,Departed
+GVA,2026-08-12,Departure,MH 9234,,Malaysia,,,,2026-08-12 16:53+03:00,,,Departed
+GVA,2026-08-12,Departure,VA 6180,,Virgin Australia,,,,2026-08-12 16:53+03:00,,,Departed
+GVA,2026-08-12,Departure,UL 3578,,SriLankan,,,,2026-08-12 16:53+03:00,,,Departed
+GVA,2026-08-12,Departure,IB 6411,,Iberia,,,,2026-08-12 16:53+03:00,,,Departed
+GVA,2026-08-12,Departure,JL 4577,,JL,,,,2026-08-12 16:53+03:00,,,Departed
+GVA,2026-08-12,Departure,QR 102,,Qatar,,,,2026-08-12 16:53+03:00,,,Departed
+GVA,2026-08-12,Departure,ET 1203,,ET,,,,2026-08-12 11:02+02:00,,,Departed
+GVA,2026-08-12,Departure,AI 8432,,Air India,,,,2026-08-12 11:02+02:00,,,Departed
+GVA,2026-08-12,Departure,LX 3562,,SWISS,,,,2026-08-12 11:02+02:00,,,Departed
+GVA,2026-08-12,Departure,OS 152,AUA152R,Austrian,,,,2026-08-12 11:02+02:00,,,Departed
+GVA,2026-08-12,Departure,QR 8134,,Qatar,,,,2026-08-12 11:15+02:00,,,Departed
+GVA,2026-08-12,Departure,LL 5481,,LL,,,,2026-08-12 11:15+02:00,,,Departed
+GVA,2026-08-12,Departure,QR 3603,,Qatar,,,,2026-08-12 11:15+02:00,,,Departed
+GVA,2026-08-12,Departure,LA 5853,,LATAM,,,,2026-08-12 11:15+02:00,,,Departed
+GVA,2026-08-12,Departure,IB 5527,,Iberia,,,,2026-08-12 11:15+02:00,,,Departed
+GVA,2026-08-12,Departure,VY 6201,,Vueling,,,,2026-08-12 11:15+02:00,,,Departed
+GVA,2026-08-12,Departure,PEA 302,PEA302,Pan Europeenne Air Service,,,,2026-08-12 11:09+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 6820,EJU92HW,easyJet,,,,2026-08-12 11:12+01:00,,,Departed
+GVA,2026-08-12,Departure,EY 6216,,Etihad,,,,,,,Departed
+GVA,2026-08-12,Departure,OU 5201,,Croatia,,,,,,,Departed
+GVA,2026-08-12,Departure,AC 6835,,Air Canada,,,,,,,Departed
+GVA,2026-08-12,Departure,EC 6820,EJU92HW,EasyJet Europe,,,,2026-08-12 11:12+01:00,,,Departed
+GVA,2026-08-12,Departure,LX 2807,SWR2XL,SWISS,,,,2026-08-12 10:59+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 6650,EZY28NB,easyJet,,,,2026-08-12 10:50+01:00,,,Departed
+GVA,2026-08-12,Departure,EY 146,ETD5HJ,Etihad,,,,2026-08-12 19:15+04:00,,,Departed
+GVA,2026-08-12,Departure,ITI 417A,ITI417A,ITI,,,,,,,Departed
+GVA,2026-08-12,Departure,BA 743,BAW743,British,,,,2026-08-12 10:38+01:00,,,Departed
+GVA,2026-08-12,Departure,LA 5396,,LATAM,,,,,,,Departed
+GVA,2026-08-12,Departure,VY 5809,,Vueling,,,,,,,Departed
+GVA,2026-08-12,Departure,AA 8735,,American,,,,,,,Departed
+GVA,2026-08-12,Departure,IB 1276,ANE88FY,Iberia,,,,2026-08-12 12:19+02:00,,,Departed
+GVA,2026-08-12,Departure,QR 5896,,Qatar,,,,2026-08-12 10:38+01:00,,,Departed
+GVA,2026-08-12,Departure,AA 6872,,American,,,,2026-08-12 10:38+01:00,,,Departed
+GVA,2026-08-12,Departure,AA 6747,,American,,,,2026-08-12 10:38+01:00,,,Departed
+GVA,2026-08-12,Departure,EI 681,EIN681,Aer Lingus,,,,2026-08-12 11:34+01:00,,,Departed
+GVA,2026-08-12,Departure,AC 6847,,Air Canada,,,,2026-08-12 11:36+02:00,,,Departed
+GVA,2026-08-12,Departure,LH 5745,,Lufthansa,,,,2026-08-12 11:36+02:00,,,Departed
+GVA,2026-08-12,Departure,UA 9802,,United,,,,2026-08-12 11:36+02:00,,,Departed
+GVA,2026-08-12,Departure,NH 6765,,ANA,,,,2026-08-12 11:36+02:00,,,Departed
+GVA,2026-08-12,Departure,LX 1082,SWR2CY,SWISS,,,,2026-08-12 11:36+02:00,,,Departed
+GVA,2026-08-12,Departure,LO 418,LOT3YM,LOT - Polish,,,,2026-08-12 12:27+02:00,,,Departed
+GVA,2026-08-12,Departure,WB 1260,,RwandAir,,,,,,,Departed
+GVA,2026-08-12,Departure,PK 5918,,Pakistan International,,,,,,,Departed
+GVA,2026-08-12,Departure,WY 5760,,Oman Air,,,,,,,Departed
+GVA,2026-08-12,Departure,6E 4136,,IndiGo,,,,,,,Departed
+GVA,2026-08-12,Departure,TK 1918,THY9FG,Turkish,,,,,,,Departed
+GVA,2026-08-12,Departure,EC 7642,EJU74LC,EasyJet Europe,,,,2026-08-12 11:56+01:00,,,Departed
+GVA,2026-08-12,Departure,U2 7642,EJU74LC,easyJet,,,,2026-08-12 11:56+01:00,,,Departed
+GVA,2026-08-12,Departure,FSF 589M,FSF589M,FSF,,,,2026-08-12 11:54+02:00,,,Departed
+GVA,2026-08-12,Departure,VN 3671,,Vietnam,,,,2026-08-12 11:49+02:00,,,Departed
+GVA,2026-08-12,Departure,AM 5936,,Aeromexico,,,,2026-08-12 11:49+02:00,,,Departed
+GVA,2026-08-12,Departure,UX 2213,,Air Europa,,,,2026-08-12 11:49+02:00,,,Departed
+GVA,2026-08-12,Departure,MU 1692,,China Eastern,,,,2026-08-12 11:49+02:00,,,Departed
+GVA,2026-08-12,Departure,DL 8525,,Delta Air Lines,,,,2026-08-12 11:49+02:00,,,Departed
+GVA,2026-08-12,Departure,MK 9591,,Air Mauritius,,,,2026-08-12 11:49+02:00,,,Departed
+GVA,2026-08-12,Departure,KQ 3911,,Kenya,,,,2026-08-12 11:49+02:00,,,Departed
+GVA,2026-08-12,Departure,UU 8643,,Air Austral,,,,2026-08-12 11:49+02:00,,,Departed
+GVA,2026-08-12,Departure,LX 4604,,SWISS,,,,2026-08-12 11:49+02:00,,,Departed
+GVA,2026-08-12,Departure,KE 6348,,Korean Air,,,,2026-08-12 11:49+02:00,,,Departed
+GVA,2026-08-12,Departure,WS 5012,,WestJet,,,,2026-08-12 11:49+02:00,,,Departed
+GVA,2026-08-12,Departure,SK 9838,,SAS,,,,2026-08-12 11:49+02:00,,,Departed
+GVA,2026-08-12,Departure,G3 5239,,Gol,,,,2026-08-12 11:49+02:00,,,Departed
+GVA,2026-08-12,Departure,AF 1643,AFR43MU,Air France,,,,2026-08-12 11:49+02:00,,,Departed
+GVA,2026-08-12,Departure,NJE 598U,NJE598U,NetJets Europe,,,,2026-08-12 11:41+02:00,,,Departed
+GVA,2026-08-12,Departure,UX 1664,AEA26BU,Air Europa,,,,2026-08-12 12:37+02:00,,,Departed
+GVA,2026-08-12,Departure,AY 1532,FIN6PZ,Finnair,,,,2026-08-12 14:58+03:00,,,Departed
+GVA,2026-08-12,Departure,U2 1377,EZS62TJ,easyJet,,,,2026-08-12 12:20+02:00,,,Departed
+GVA,2026-08-12,Departure,DS 1377,EZS62TJ,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,DS 1387,EZS46NT,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,EY 6220,,Etihad,,,,,,,Departed
+GVA,2026-08-12,Departure,AC 6816,,Air Canada,,,,,,,Departed
+GVA,2026-08-12,Departure,CX 6604,,Cathay Pacific,,,,,,,Departed
+GVA,2026-08-12,Departure,U2 2886,EZY75TD,easyJet,,,,2026-08-12 11:36+01:00,,,Departed
+GVA,2026-08-12,Departure,U2 2186,EZY12QB,easyJet,,,,2026-08-12 12:07+01:00,,,Departed
+GVA,2026-08-12,Departure,LX 2809,SWR3HY,SWISS,,,,2026-08-12 11:53+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1387,EZS46NT,easyJet,,,,2026-08-12 12:04+02:00,,,Departed
+GVA,2026-08-12,Departure,SK 1610,SAS22P,SAS,,,,2026-08-12 12:53+02:00,,,Departed
+GVA,2026-08-12,Departure,FSF 754Z,FSF754Z,FSF,,,,,,,Departed
+GVA,2026-08-12,Departure,LY 346,ELY346,El Al,,,,2026-08-12 17:16+03:00,,,Departed
+GVA,2026-08-12,Departure,A3 1991,,Aegean,,,,2026-08-12 15:21+03:00,,,Departed
+GVA,2026-08-12,Departure,LX 1820,SWR1820,SWISS,,,,2026-08-12 15:21+03:00,,,Departed
+GVA,2026-08-12,Departure,LX 4334,,SWISS,,,,2026-08-12 15:24+03:00,,,Departed
+GVA,2026-08-12,Departure,AC 5742,,Air Canada,,,,2026-08-12 15:24+03:00,,,Departed
+GVA,2026-08-12,Departure,A3 855,AEE855,Aegean,,,,2026-08-12 15:24+03:00,,,Departed
+GVA,2026-08-12,Departure,SN 2714,BEL9HR,Brussels,,,,2026-08-12 12:47+02:00,,,Departed
+GVA,2026-08-12,Departure,LX 4572,,SWISS,,,,2026-08-12 12:47+02:00,,,Departed
+GVA,2026-08-12,Departure,AC 6343,,Air Canada,,,,2026-08-12 12:47+02:00,,,Departed
+GVA,2026-08-12,Departure,UA 9720,,United,,,,,,,Departed
+GVA,2026-08-12,Departure,U2 1383,EZS49KR,easyJet,,,,2026-08-12 12:55+02:00,,,Departed
+GVA,2026-08-12,Departure,DS 1383,EZS49KR,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,LX 22,SWR22D,SWISS,,,,2026-08-12 14:04-04:00,,,Departed
+GVA,2026-08-12,Departure,DS 1417,EZS91YN,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,ME 214,MEA214,Middle East,,,,2026-08-12 16:35+03:00,,,Departed
+GVA,2026-08-12,Departure,U2 1417,EZS91YN,easyJet,,,,2026-08-12 13:15+02:00,,,Departed
+GVA,2026-08-12,Departure,FB 1641,,Bulgaria Air,,,,,,,Departed
+GVA,2026-08-12,Departure,LX 3434,,SWISS,,,,,,,Departed
+GVA,2026-08-12,Departure,EY 2853,,Etihad,,,,,,,Departed
+GVA,2026-08-12,Departure,AZ 575,ITY575,ITA,,,,2026-08-12 13:00+02:00,,,Departed
+GVA,2026-08-12,Departure,MU 218,CES218,China Eastern,,,,2026-08-13 04:56+08:00,,,Departed
+GVA,2026-08-12,Departure,TP 6758,,TAP Air Portugal,,,,2026-08-12 13:31+01:00,,,Departed
+GVA,2026-08-12,Departure,LX 2092,SWR32F,SWISS,,,,2026-08-12 13:31+01:00,,,Departed
+GVA,2026-08-12,Departure,AXY 801M,AXY801M,AIR X Charter,,,,2026-08-12 14:06+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1395,EZS1395,easyJet,,,,2026-08-12 13:25+02:00,,,Departed
+GVA,2026-08-12,Departure,DS 1365,EZS73NW,Easyjet Switzerland,,,,2026-08-12 15:13+01:00,,,Departed
+GVA,2026-08-12,Departure,DS 1453,EZS74RG,Easyjet Switzerland,,,,2026-08-12 13:20+01:00,,,Departed
+GVA,2026-08-12,Departure,U2 1453,EZS74RG,easyJet,,,,2026-08-12 13:20+01:00,,,Departed
+GVA,2026-08-12,Departure,DS 1395,EZS1395,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,U2 1365,EZS73NW,easyJet,,,,2026-08-12 15:13+01:00,,,Departed
+GVA,2026-08-12,Departure,GP 61G,PTN61G,Pantanal Linhas Aereas,,,,,,,Departed
+GVA,2026-08-12,Departure,FSF 426W,FSF426W,FSF,,,,,,,Departed
+GVA,2026-08-12,Departure,TP 6760,,TAP Air Portugal,,,,,,,Departed
+GVA,2026-08-12,Departure,LX 2078,SWR7H,SWISS,,,,2026-08-12 13:35+01:00,,,Departed
+GVA,2026-08-12,Departure,VY 5150,,Vueling,,,,2026-08-12 14:29+02:00,,,Departed
+GVA,2026-08-12,Departure,AA 8533,,American,,,,2026-08-12 14:29+02:00,,,Departed
+GVA,2026-08-12,Departure,AY 5629,,Finnair,,,,2026-08-12 14:29+02:00,,,Departed
+GVA,2026-08-12,Departure,IB 614,IBE06GL,Iberia,,,,2026-08-12 14:29+02:00,,,Departed
+GVA,2026-08-12,Departure,BOH 211,BOH211,BOH,,,,2026-08-12 12:46+01:00,,,Departed
+GVA,2026-08-12,Departure,LH 6828,,Lufthansa,,,,,,,Departed
+GVA,2026-08-12,Departure,UA 8391,,United,,,,,,,Departed
+GVA,2026-08-12,Departure,ME 4551,,Middle East,,,,,,,Departed
+GVA,2026-08-12,Departure,LX 4642,,SWISS,,,,,,,Departed
+GVA,2026-08-12,Departure,U2 1503,EZS91DA,easyJet,,,,2026-08-12 14:20+02:00,,,Departed
+GVA,2026-08-12,Departure,AC 803,ACA803,Air Canada,,,,,,,Departed
+GVA,2026-08-12,Departure,DS 1503,EZS91DA,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,DY 1603,NOZ3LB,Norwegian Air Shuttle,,,,2026-08-12 15:14+02:00,,,Departed
+GVA,2026-08-12,Departure,KL 1932,KLM82K,KLM,,,,2026-08-12 14:12+02:00,,,Departed
+GVA,2026-08-12,Departure,BA 747,BAW747,British,,,,2026-08-12 13:50+01:00,,,Departed
+GVA,2026-08-12,Departure,SK 6619,,SAS,,,,2026-08-12 14:12+02:00,,,Departed
+GVA,2026-08-12,Departure,KQ 1928,,Kenya,,,,2026-08-12 14:12+02:00,,,Departed
+GVA,2026-08-12,Departure,DL 9550,,Delta Air Lines,,,,2026-08-12 14:12+02:00,,,Departed
+GVA,2026-08-12,Departure,DL 9457,,Delta Air Lines,,,,2026-08-12 17:15+02:00,,,Departed
+GVA,2026-08-12,Departure,6E 8035,,IndiGo,,,,,,,Departed
+GVA,2026-08-12,Departure,MH 5660,,Malaysia,,,,2026-08-12 14:12+02:00,,,Departed
+GVA,2026-08-12,Departure,DL 9534,,Delta Air Lines,,,,,,,Departed
+GVA,2026-08-12,Departure,6E 8048,,IndiGo,,,,2026-08-12 14:12+02:00,,,Departed
+GVA,2026-08-12,Departure,MU 1914,,China Eastern,,,,2026-08-12 14:12+02:00,,,Departed
+GVA,2026-08-12,Departure,DL 9538,,Delta Air Lines,,,,2026-08-12 15:44+02:00,,,Departed
+GVA,2026-08-12,Departure,AM 6221,,Aeromexico,,,,2026-08-12 14:12+02:00,,,Departed
+GVA,2026-08-12,Departure,DL 9168,,Delta Air Lines,,,,,,,Departed
+GVA,2026-08-12,Departure,DS 1349,EZS72QV,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,U2 1349,EZS72QV,easyJet,,,,2026-08-12 14:15+02:00,,,Departed
+GVA,2026-08-12,Departure,AA 6858,,American,,,,2026-08-12 13:50+01:00,,,Departed
+GVA,2026-08-12,Departure,DS 1587,EZS62KF,Easyjet Switzerland,,,,2026-08-12 14:09+01:00,,,Departed
+GVA,2026-08-12,Departure,U2 1587,EZS62KF,easyJet,,,,2026-08-12 14:09+01:00,,,Departed
+GVA,2026-08-12,Departure,U2 8494,EZS72YG,easyJet,,,,2026-08-12 13:35+01:00,,,Departed
+GVA,2026-08-12,Departure,DS 8494,EZS72YG,Easyjet Switzerland,,,,2026-08-12 13:35+01:00,,,Departed
+GVA,2026-08-12,Departure,TP 941,TAP941,TAP Air Portugal,,,,2026-08-12 14:50+01:00,,,Departed
+GVA,2026-08-12,Departure,LX 4586,,SWISS,,,,2026-08-12 14:50+01:00,,,Departed
+GVA,2026-08-12,Departure,CA 7047,,Air China,,,,2026-08-12 14:50+01:00,,,Departed
+GVA,2026-08-12,Departure,AC 2664,,Air Canada,,,,2026-08-12 14:50+01:00,,,Departed
+GVA,2026-08-12,Departure,LY 9035,,El Al,,,,2026-08-12 14:50+01:00,,,Departed
+GVA,2026-08-12,Departure,S4 8365,,Azores,,,,2026-08-12 14:50+01:00,,,Departed
+GVA,2026-08-12,Departure,AY 6789,,Finnair,,,,2026-08-12 14:50+01:00,,,Departed
+GVA,2026-08-12,Departure,LO 4711,,LOT - Polish,,,,2026-08-12 14:50+01:00,,,Departed
+GVA,2026-08-12,Departure,AD 7338,,Azul,,,,2026-08-12 14:50+01:00,,,Departed
+GVA,2026-08-12,Departure,U2 1505,EZS38RU,easyJet,,,,2026-08-12 14:46+02:00,,,Departed
+GVA,2026-08-12,Departure,DS 1505,EZS38RU,Easyjet Switzerland,,,,2026-08-12 14:46+02:00,,,Departed
+GVA,2026-08-12,Departure,UA 9740,,United,,,,2026-08-12 13:47+01:00,,,Departed
+GVA,2026-08-12,Departure,LX 2162,SWR9PW,SWISS,,,,2026-08-12 14:34+02:00,,,Departed
+GVA,2026-08-12,Departure,LX 354,SWR29K,SWISS,,,,2026-08-12 13:47+01:00,,,Departed
+GVA,2026-08-12,Departure,EC 7286,EJU14DU,EasyJet Europe,,,,2026-08-12 14:44+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 7286,EJU14DU,easyJet,,,,2026-08-12 14:44+02:00,,,Departed
+GVA,2026-08-12,Departure,DS 1565,EZS83JY,Easyjet Switzerland,,,,2026-08-12 15:13+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1565,EZS83JY,easyJet,,,,2026-08-12 15:13+02:00,,,Departed
+GVA,2026-08-12,Departure,DS 1497,EZS87GD,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,U2 1497,EZS87GD,easyJet,,,,2026-08-12 15:45+02:00,,,Departed
+GVA,2026-08-12,Departure,IV 701,,Gp Aviation,,,,2026-08-12 15:55+02:00,,,Departed
+GVA,2026-08-12,Departure,DS 1353,EZS65JT,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,U2 1353,EZS65JT,easyJet,,,,2026-08-12 15:15+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1569,EZS48KU,easyJet,,,,,,,Departed
+GVA,2026-08-12,Departure,DS 1569,EZS48KU,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,GPX 701,GPX701,GP Aviation,,,,,,,Departed
+GVA,2026-08-12,Departure,VY 5280,,Vueling,,,,2026-08-12 16:12+02:00,,,Departed
+GVA,2026-08-12,Departure,AA 8698,,American,,,,2026-08-12 16:12+02:00,,,Departed
+GVA,2026-08-12,Departure,LA 1645,,LATAM,,,,2026-08-12 16:12+02:00,,,Departed
+GVA,2026-08-12,Departure,DL 9537,,Delta Air Lines,,,,2026-08-12 16:07+02:00,,,Departed
+GVA,2026-08-12,Departure,SK 6621,,SAS,,,,2026-08-12 15:30+02:00,,,Departed
+GVA,2026-08-12,Departure,MH 5664,,Malaysia,,,,,,,Departed
+GVA,2026-08-12,Departure,KE 6412,,Korean Air,,,,2026-08-12 15:30+02:00,,,Departed
+GVA,2026-08-12,Departure,DL 9549,,Delta Air Lines,,,,2026-08-12 15:30+02:00,,,Departed
+GVA,2026-08-12,Departure,AM 6521,,Aeromexico,,,,2026-08-12 15:30+02:00,,,Departed
+GVA,2026-08-12,Departure,6E 8049,,IndiGo,,,,2026-08-12 15:30+02:00,,,Departed
+GVA,2026-08-12,Departure,KQ 1930,,Kenya,,,,2026-08-12 15:30+02:00,,,Departed
+GVA,2026-08-12,Departure,MU 1788,,China Eastern,,,,2026-08-12 15:30+02:00,,,Departed
+GVA,2026-08-12,Departure,DL 9221,,Delta Air Lines,,,,,,,Departed
+GVA,2026-08-12,Departure,IB 616,IBE0616,Iberia,,,,2026-08-12 16:12+02:00,,,Departed
+GVA,2026-08-12,Departure,KL 1934,KLM50X,KLM,,,,2026-08-12 15:30+02:00,,,Departed
+GVA,2026-08-12,Departure,PC 954,PGT881T,Pegasus,,,,2026-08-12 18:20+03:00,,,Departed
+GVA,2026-08-12,Departure,VJT 691,VJT691,VistaJet,,,,2026-08-12 14:38+01:00,,,Departed
+GVA,2026-08-12,Departure,DS 1363,EZS81FQ,Easyjet Switzerland,,,,2026-08-12 16:02+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1363,EZS81FQ,easyJet,,,,2026-08-12 16:02+02:00,,,Departed
+GVA,2026-08-12,Departure,LX 2813,SWR8PV,SWISS,,,,2026-08-12 15:29+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 7108,EJU7108,easyJet,,,,2026-08-12 16:43+02:00,,,Departed
+GVA,2026-08-12,Departure,EC 7108,EJU7108,EasyJet Europe,,,,2026-08-12 16:43+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 7284,EJU16UP,easyJet,,,,2026-08-12 16:48+02:00,,,Departed
+GVA,2026-08-12,Departure,SK 9840,,SAS,,,,2026-08-12 16:30+02:00,,,Departed
+GVA,2026-08-12,Departure,UX 2219,,Air Europa,,,,2026-08-12 16:30+02:00,,,Departed
+GVA,2026-08-12,Departure,LX 4610,,SWISS,,,,2026-08-12 16:30+02:00,,,Departed
+GVA,2026-08-12,Departure,MK 9557,,Air Mauritius,,,,2026-08-12 16:30+02:00,,,Departed
+GVA,2026-08-12,Departure,AM 6187,,Aeromexico,,,,2026-08-12 16:30+02:00,,,Departed
+GVA,2026-08-12,Departure,DL 8276,,Delta Air Lines,,,,2026-08-12 16:30+02:00,,,Departed
+GVA,2026-08-12,Departure,UU 8443,,Air Austral,,,,2026-08-12 16:30+02:00,,,Departed
+GVA,2026-08-12,Departure,BT 5626,,airBaltic,,,,2026-08-12 16:30+02:00,,,Departed
+GVA,2026-08-12,Departure,AF 1443,AFR39KK,Air France,,,,2026-08-12 16:30+02:00,,,Departed
+GVA,2026-08-12,Departure,EC 7284,EJU16UP,EasyJet Europe,,,,2026-08-12 16:48+02:00,,,Departed
+GVA,2026-08-12,Departure,XQ 879,SXS6AN,Sun Express,,,,2026-08-12 19:10+03:00,,,Departed
+GVA,2026-08-12,Departure,DS 1359,EZS32GV,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,U2 1359,EZS32GV,easyJet,,,,2026-08-12 16:28+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1413,EZS61HE,easyJet,,,,2026-08-12 16:30+02:00,,,Departed
+GVA,2026-08-12,Departure,DS 1413,EZS61HE,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,EK 90,UAE20X,Emirates,,,,2026-08-13 00:24+04:00,,,Departed
+GVA,2026-08-12,Departure,QF 8090,,Qantas,,,,2026-08-13 00:24+04:00,,,Departed
+GVA,2026-08-12,Departure,FI 6030,,Icelandair,,,,2026-08-13 00:24+04:00,,,Departed
+GVA,2026-08-12,Departure,6E 4140,,IndiGo,,,,2026-08-12 19:30+03:00,,,Departed
+GVA,2026-08-12,Departure,WY 5758,,Oman Air,,,,2026-08-12 19:30+03:00,,,Departed
+GVA,2026-08-12,Departure,PK 5922,,Pakistan International,,,,2026-08-12 19:30+03:00,,,Departed
+GVA,2026-08-12,Departure,TK 1922,,Turkish,,,,2026-08-12 19:30+03:00,,,Departed
+GVA,2026-08-12,Departure,LL 5483,,LL,,,,2026-08-12 17:10+02:00,,,Departed
+GVA,2026-08-12,Departure,IB 5575,,Iberia,,,,2026-08-12 17:55+02:00,,,Departed
+GVA,2026-08-12,Departure,QR 5537,,Qatar,,,,,,,Departed
+GVA,2026-08-12,Departure,VY 6203,VLG6RR,Vueling,,,,2026-08-12 17:10+02:00,,,Departed
+GVA,2026-08-12,Departure,KU 162,KAC162,Kuwait,,,,2026-08-12 22:15+03:00,,,Departed
+GVA,2026-08-12,Departure,U2 1423,EZS58ZV,easyJet,,,,2026-08-12 17:20+02:00,,,Departed
+GVA,2026-08-12,Departure,OU 5203,,Croatia,,,,,,,Departed
+GVA,2026-08-12,Departure,AZ 3853,,ITA,,,,,,,Departed
+GVA,2026-08-12,Departure,RJ 156,RJA156,Royal Jordanian,,,,2026-08-12 20:47+03:00,,,Departed
+GVA,2026-08-12,Departure,LX 2811,SWR3PT,SWISS,,,,2026-08-12 16:25+02:00,,,Departed
+GVA,2026-08-12,Departure,DS 1423,EZS58ZV,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,A2 681,,Animawings,,,,2026-08-12 18:52+03:00,,,Departed
+GVA,2026-08-12,Departure,NJE 939W,NJE949P,NetJets Europe,,,,2026-08-12 17:03+02:00,,,Departed
+GVA,2026-08-12,Departure,TP 939,TAP939,TAP Air Portugal,,,,2026-08-12 17:03+01:00,,,Departed
+GVA,2026-08-12,Departure,S4 8364,,Azores,,,,,,,Departed
+GVA,2026-08-12,Departure,AY 6793,,Finnair,,,,,,,Departed
+GVA,2026-08-12,Departure,ET 1729,,ET,,,,,,,Departed
+GVA,2026-08-12,Departure,LX 4588,,SWISS,,,,,,,Departed
+GVA,2026-08-12,Departure,AWG 681,AWG681,AWG,,,,,,,Departed
+GVA,2026-08-12,Departure,NH 6755,,ANA,,,,2026-08-12 16:28+01:00,,,Departed
+GVA,2026-08-12,Departure,UA 9744,,United,,,,2026-08-12 16:28+01:00,,,Departed
+GVA,2026-08-12,Departure,LX 348,SWR59K,SWISS,,,,2026-08-12 16:28+01:00,,,Departed
+GVA,2026-08-12,Departure,SV 238,SVA238,Saudi Arabian,,,,2026-08-12 23:00+03:00,,,Departed
+GVA,2026-08-12,Departure,SV 238,SVA238,Saudi Arabian,,,,2026-08-12 23:00+03:00,,,Departed
+GVA,2026-08-12,Departure,EC 5504,EJU64VK,EasyJet Europe,,,,2026-08-12 18:22+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 5504,EJU64VK,easyJet,,,,2026-08-12 18:22+02:00,,,Departed
+GVA,2026-08-12,Departure,AAO 54,AAO54,AAO,,,,,,,Departed
+GVA,2026-08-12,Departure,EC 1307,EJU76QC,EasyJet Europe,,,,2026-08-12 18:40+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1307,EJU76QC,easyJet,,,,2026-08-12 18:40+02:00,,,Departed
+GVA,2026-08-12,Departure,XQ 129,SXS9KZ,Sun Express,,,,2026-08-12 21:16+03:00,,,Departed
+GVA,2026-08-12,Departure,U2 1507,EZS1507,easyJet,,,,2026-08-12 18:15+01:00,,,Departed
+GVA,2026-08-12,Departure,DS 1507,EZS1507,Easyjet Switzerland,,,,2026-08-12 18:15+01:00,,,Departed
+GVA,2026-08-12,Departure,DS 1457,EZS76KB,Easyjet Switzerland,,,,2026-08-12 18:13+01:00,,,Departed
+GVA,2026-08-12,Departure,U2 1457,EZS76KB,easyJet,,,,2026-08-12 18:13+01:00,,,Departed
+GVA,2026-08-12,Departure,U2 1463,EZS62YX,easyJet,,,,2026-08-12 18:40+01:00,,,Departed
+GVA,2026-08-12,Departure,SN 2722,BEL2CA,Brussels,,,,2026-08-12 18:17+02:00,,,Departed
+GVA,2026-08-12,Departure,DS 1463,EZS62YX,Easyjet Switzerland,,,,2026-08-12 18:40+01:00,,,Departed
+GVA,2026-08-12,Departure,U2 7575,EJU82MQ,easyJet,,,,2026-08-12 18:25+02:00,,,Departed
+GVA,2026-08-12,Departure,EC 7575,EJU82MQ,EasyJet Europe,,,,,,,Departed
+GVA,2026-08-12,Departure,U2 2188,EZY97GA,easyJet,,,,2026-08-12 18:08+01:00,,,Departed
+GVA,2026-08-12,Departure,LX 4522,,SWISS,,,,2026-08-12 18:17+02:00,,,Departed
+GVA,2026-08-12,Departure,NH 5140,,ANA,,,,2026-08-12 18:17+02:00,,,Departed
+GVA,2026-08-12,Departure,PC 956,PGT956,Pegasus,,,,2026-08-12 21:25+03:00,,,Departed
+GVA,2026-08-12,Departure,DCLIK,DCLIK,Unknown/Private owner,,,,2026-08-12 18:19+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1495,EZS19WQ,easyJet,,,,2026-08-12 19:50+02:00,,,Departed
+GVA,2026-08-12,Departure,DS 1495,EZS19WQ,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,TP 6764,,TAP Air Portugal,,,,,,,Departed
+GVA,2026-08-12,Departure,LX 356,SWR316T,SWISS,,,,2026-08-12 18:26+01:00,,,Departed
+GVA,2026-08-12,Departure,LX 2074,SWR94C,SWISS,,,,2026-08-12 19:05+01:00,,,Departed
+GVA,2026-08-12,Departure,KL 1936,KLM1936,KLM,,,,2026-08-12 19:18+02:00,,,Departed
+GVA,2026-08-12,Departure,AC 803,ACA803,Air Canada,,,,2026-08-12 19:41-04:00,,,Departed
+GVA,2026-08-12,Departure,BA 751,BAW751,British,,,,2026-08-12 18:47+01:00,,,Departed
+GVA,2026-08-12,Departure,U2 1427,EZS78KD,easyJet,,,,2026-08-12 20:00+02:00,,,Departed
+GVA,2026-08-12,Departure,AA 6868,,American,,,,2026-08-12 18:47+01:00,,,Departed
+GVA,2026-08-12,Departure,JL 7708,,JL,,,,2026-08-12 18:47+01:00,,,Departed
+GVA,2026-08-12,Departure,QR 5866,,Qatar,,,,2026-08-12 18:47+01:00,,,Departed
+GVA,2026-08-12,Departure,AA 6602,,American,,,,2026-08-12 18:47+01:00,,,Departed
+GVA,2026-08-12,Departure,DS 1427,EZS78KD,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,DS 1539,EZS41MU,Easyjet Switzerland,,,,2026-08-12 20:15+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1539,EZS41MU,easyJet,,,,2026-08-12 20:15+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1491,EZS92DC,easyJet,,,,2026-08-12 20:23+02:00,,,Departed
+GVA,2026-08-12,Departure,DS 1371,EZS14EZ,Easyjet Switzerland,,,,2026-08-12 20:05+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1371,EZS14EZ,easyJet,,,,2026-08-12 20:05+02:00,,,Departed
+GVA,2026-08-12,Departure,DS 1491,EZS92DC,Easyjet Switzerland,,,,2026-08-12 20:23+02:00,,,Departed
+GVA,2026-08-12,Departure,LX 4614,,SWISS,,,,2026-08-12 19:20+02:00,,,Departed
+GVA,2026-08-12,Departure,UX 2221,,Air Europa,,,,2026-08-12 19:20+02:00,,,Departed
+GVA,2026-08-12,Departure,G3 5238,,Gol,,,,2026-08-12 19:20+02:00,,,Departed
+GVA,2026-08-12,Departure,UU 8343,,Air Austral,,,,2026-08-12 19:20+02:00,,,Departed
+GVA,2026-08-12,Departure,KE 6346,,Korean Air,,,,2026-08-12 19:20+02:00,,,Departed
+GVA,2026-08-12,Departure,MK 9551,,Air Mauritius,,,,2026-08-12 19:20+02:00,,,Departed
+GVA,2026-08-12,Departure,AM 6179,,Aeromexico,,,,2026-08-12 19:20+02:00,,,Departed
+GVA,2026-08-12,Departure,SK 9839,,SAS,,,,2026-08-12 19:20+02:00,,,Departed
+GVA,2026-08-12,Departure,KQ 3153,,Kenya,,,,2026-08-12 19:20+02:00,,,Departed
+GVA,2026-08-12,Departure,AF 1343,AFR57JG,Air France,,,,2026-08-12 19:20+02:00,,,Departed
+GVA,2026-08-12,Departure,TU 701,TAR701,Tunisair,,,,2026-08-12 19:15+01:00,,,Departed
+GVA,2026-08-12,Departure,VF 528,TKJ6PW,AJet,,,,2026-08-12 22:38+03:00,,,Departed
+GVA,2026-08-12,Departure,TP 943,TAP94VA,TAP Air Portugal,,,,2026-08-12 20:19+01:00,,,Departed
+GVA,2026-08-12,Departure,AT 931,,Royal Air Maroc,,,,2026-08-12 20:11+01:00,,,Departed
+GVA,2026-08-12,Departure,S4 8349,,Azores,,,,2026-08-12 20:19+01:00,,,Departed
+GVA,2026-08-12,Departure,LX 4584,,SWISS,,,,2026-08-12 20:19+01:00,,,Departed
+GVA,2026-08-12,Departure,LY 9036,,El Al,,,,2026-08-12 20:19+01:00,,,Departed
+GVA,2026-08-12,Departure,MS 9535,,EgyptAir,,,,2026-08-12 20:19+01:00,,,Departed
+GVA,2026-08-12,Departure,AD 7222,,Azul,,,,2026-08-12 20:19+01:00,,,Departed
+GVA,2026-08-12,Departure,UX 1666,AEA86JK,Air Europa,,,,2026-08-12 20:31+02:00,,,Departed
+GVA,2026-08-12,Departure,CA 620,CCA620,Air China,,,,2026-08-13 10:27+08:00,,,Departed
+GVA,2026-08-12,Departure,LH 5747,,Lufthansa,,,,2026-08-12 20:18+02:00,,,Departed
+GVA,2026-08-12,Departure,SQ 2952,,Singapore,,,,2026-08-12 20:18+02:00,,,Departed
+GVA,2026-08-12,Departure,LX 1086,SWR461V,SWISS,,,,2026-08-12 20:18+02:00,,,Departed
+GVA,2026-08-12,Departure,LX 2130,SWR2HV,SWISS,,,,2026-08-12 20:42+02:00,,,Departed
+GVA,2026-08-12,Departure,VY 5824,,Vueling,,,,,,,Departed
+GVA,2026-08-12,Departure,AA 8568,,American,,,,,,,Departed
+GVA,2026-08-12,Departure,LA 1643,,LATAM,,,,,,,Departed
+GVA,2026-08-12,Departure,IB 1280,ANE11NY,Iberia,,,,2026-08-12 20:53+02:00,,,Departed
+GVA,2026-08-12,Departure,LX 2817,SWR2EZ,SWISS,,,,2026-08-12 19:45+02:00,,,Departed
+GVA,2026-08-12,Departure,AI 7702,,Air India,,,,2026-08-12 19:45+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 8496,EZS23YH,easyJet,,,,2026-08-12 19:40+01:00,,,Departed
+GVA,2026-08-12,Departure,DS 1389,EZS25BW,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,U2 1389,EZS25BW,easyJet,,,,2026-08-12 20:10+02:00,,,Departed
+GVA,2026-08-12,Departure,DS 8496,EZS23YH,Easyjet Switzerland,,,,2026-08-12 19:40+01:00,,,Departed
+GVA,2026-08-12,Departure,VJT 29K,VJT029K,VistaJet,,,,,,,Departed
+GVA,2026-08-12,Departure,U2 1419,EZS79ER,easyJet,,,,,,,Departed
+GVA,2026-08-12,Departure,DS 1419,EZS79ER,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,WY 5772,,Oman Air,,,,,,,Departed
+GVA,2026-08-12,Departure,TG 9023,,Thai  International,,,,,,,Departed
+GVA,2026-08-12,Departure,PK 5920,,Pakistan International,,,,,,,Departed
+GVA,2026-08-12,Departure,6E 4138,,IndiGo,,,,,,,Departed
+GVA,2026-08-12,Departure,TK 1920,THY6NU,Turkish,,,,,,,Departed
+GVA,2026-08-12,Departure,LX 528,SWR9H,SWISS,,,,,,,Departed
+GVA,2026-08-12,Departure,TU 875,TAR875,Tunisair,,,,2026-08-12 20:30+01:00,,,Departed
+GVA,2026-08-12,Departure,G3 5634,,Gol,,,,2026-08-12 20:36+02:00,,,Departed
+GVA,2026-08-12,Departure,6E 3337,,IndiGo,,,,2026-08-12 20:36+02:00,,,Departed
+GVA,2026-08-12,Departure,SK 6625,,SAS,,,,2026-08-12 20:36+02:00,,,Departed
+GVA,2026-08-12,Departure,AM 6395,,Aeromexico,,,,2026-08-12 20:36+02:00,,,Departed
+GVA,2026-08-12,Departure,KL 1938,KLM1938,KLM,,,,2026-08-12 20:36+02:00,,,Departed
+GVA,2026-08-12,Departure,PC 5018,PGT13E,Pegasus,,,,2026-08-13 00:01+03:00,,,Departed
+GVA,2026-08-12,Departure,DS 1379,EZS27FR,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,U2 1379,EZS27FR,easyJet,,,,2026-08-12 21:06+02:00,,,Departed
+GVA,2026-08-12,Departure,EC 1303,EJU85QE,EasyJet Europe,,,,2026-08-12 21:11+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1303,EJU85QE,easyJet,,,,2026-08-12 21:11+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1373,EZS69UH,easyJet,,,,2026-08-12 21:58+02:00,,,Departed
+GVA,2026-08-12,Departure,DS 1373,EZS69UH,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,LO 416,LOT416,LOT - Polish,,,,2026-08-12 22:06+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 2538,EZY25AP,easyJet,,,,2026-08-12 20:30+01:00,,,Departed
+GVA,2026-08-12,Departure,QY 890,BCS890,EAT Leipzig,,,,,,,Departed
+GVA,2026-08-12,Departure,AA 6710,,American,,,,2026-08-12 20:36+01:00,,,Departed
+GVA,2026-08-12,Departure,QR 9796,,Qatar,,,,2026-08-12 20:36+01:00,,,Departed
+GVA,2026-08-12,Departure,BA 745,BAW745,British,,,,2026-08-12 20:36+01:00,,,Departed
+GVA,2026-08-12,Departure,LX 2819,SWR9TP,SWISS,,,,2026-08-12 20:50+02:00,,,Departed
+GVA,2026-08-12,Departure,LX 2819,SWR9TP,SWISS,,,,2026-08-12 20:50+02:00,,,Departed
+GVA,2026-08-12,Departure,LG 8368,LGL68G,Luxair,,,,2026-08-12 20:48+02:00,,,Departed
+GVA,2026-08-12,Departure,LX 3566,,SWISS,,,,2026-08-12 21:51+02:00,,,Departed
+GVA,2026-08-12,Departure,SK 618,SAS28K,SAS,,,,2026-08-12 22:04+02:00,,,Departed
+GVA,2026-08-12,Departure,OS 156,AUA156,Austrian,,,,2026-08-12 21:51+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 1401,EZS53VN,easyJet,,,,2026-08-12 21:20+02:00,,,Departed
+GVA,2026-08-12,Departure,DS 1401,EZS53VN,Easyjet Switzerland,,,,,,,Departed
+GVA,2026-08-12,Departure,JU 329,ASL20A,Air Serbia,,,,2026-08-12 22:06+02:00,,,Departed
+GVA,2026-08-12,Departure,EC 7526,EJU61XF,EasyJet Europe,,,,2026-08-12 22:19+01:00,,,Departed
+GVA,2026-08-12,Departure,U2 7526,EJU61XF,easyJet,,,,2026-08-12 22:19+01:00,,,Departed
+GVA,2026-08-12,Departure,ET 4379,,ET,,,,,,,Departed
+GVA,2026-08-12,Departure,EY 3029,,Etihad,,,,,,,Departed
+GVA,2026-08-12,Departure,LX 3436,,SWISS,,,,,,,Departed
+GVA,2026-08-12,Departure,AZ 577,ITY577,ITA,,,,2026-08-12 21:49+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 5182,EJU34BQ,easyJet,,,,2026-08-12 22:19+02:00,,,Departed
+GVA,2026-08-12,Departure,EC 7868,EJU42XL,EasyJet Europe,,,,2026-08-12 21:55+02:00,,,Departed
+GVA,2026-08-12,Departure,U2 7868,EJU42XL,easyJet,,,,2026-08-12 21:55+02:00,,,Departed
+GVA,2026-08-12,Departure,EC 5182,,EasyJet Europe,,,,2026-08-12 22:19+02:00,,,Departed
+GVA,2026-08-12,Departure,VXS 2,VXS2,Voluxis,,,,,,,Departed
+GVA,2026-08-12,Departure,U2 2184,EZY32EL,easyJet,,,,2026-08-12 21:54+01:00,,,Departed
+GVA,2026-08-12,Departure,U2 8498,EZY86LX,easyJet,,,,2026-08-12 21:35+01:00,,,Departed
+GVA,2026-08-12,Departure,D0 209P,DHK209P,DHL Air,,,,2026-08-12 21:43+02:00,,,Departed
+GVA,2026-08-12,Departure,LX 358,SWR28L,SWISS,,,,2026-08-12 21:34+01:00,,,Departed
+GVA,2026-08-12,Departure,EN 8077,DLA6JL,Air Dolomiti,,,,2026-08-12 22:05+02:00,,,Departed
+GVA,2026-08-12,Departure,LH 2389,,Lufthansa,,,,2026-08-12 22:05+02:00,,,Departed
+GVA,2026-08-12,Departure,G3 5205,,Gol,,,,2026-08-12 22:12+02:00,,,Departed
+GVA,2026-08-12,Departure,AM 6081,,Aeromexico,,,,2026-08-12 22:12+02:00,,,Departed
+GVA,2026-08-12,Departure,LX 4618,,SWISS,,,,2026-08-12 22:12+02:00,,,Departed
+GVA,2026-08-12,Departure,AF 1043,AFR38CX,Air France,,,,2026-08-12 22:12+02:00,,,Departed
+GVA,2026-08-12,Departure,SN 2724,,Brussels,,,,2026-08-12 22:30+02:00,,,Canceled
+GVA,2026-08-12,Departure,LX 4550,,SWISS,,,,2026-08-12 22:30+02:00,,,Canceled
+GVA,2026-08-12,Departure,EK 84,UAE29U,Emirates,,,,2026-08-13 06:22+04:00,,,Departed
+GVA,2026-08-12,Departure,QF 8084,,Qantas,,,,2026-08-13 06:22+04:00,,,Departed
+GVA,2026-08-12,Departure,U2 7110,EJU47PT,easyJet,,,,2026-08-13 01:05+02:00,,,Departed
+GVA,2026-08-12,Departure,EC 7110,EJU47PT,EasyJet Europe,,,,2026-08-13 01:05+02:00,,,Departed
+GVA,2026-08-12,Departure,AA 6860,,American,,,,2026-08-12 22:12+01:00,,,Departed
+GVA,2026-08-12,Departure,AA 6862,,American,,,,2026-08-12 22:12+01:00,,,Departed
+GVA,2026-08-12,Departure,QR 5951,,Qatar,,,,2026-08-12 22:12+01:00,,,Departed
+GVA,2026-08-12,Departure,BA 755,BAW755,British,,,,2026-08-12 22:12+01:00,,,Departed
+GVA,2026-08-12,Departure,FL 9156,,Air Leap,,,,,,,Departed
+GVA,2026-08-12,Departure,3V 5VA,TAY5VA,ASL Airlines Belgium,,,,2026-08-12 22:42+02:00,,,Departed
+GVA,2026-08-12,Departure,ET 729,ETH729,Ethiopian,,,,2026-08-13 06:05+03:00,,,Departed
+GVA,2026-08-12,Departure,LIL 9156,LIL9156,LIL,,,,2026-08-13 03:43+03:00,,,Departed

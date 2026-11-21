@@ -1,0 +1,20 @@
+airport,date,direction,flight_number,callsign,airline,destination_iata,destination_name,departure_time,arrival_time,scheduled_time,revised_time,status
+BTS,2026-11-18,Departure,QY 824,BCS824,EAT Leipzig,,,,2026-11-18 01:42+01:00,,,Departed
+BTS,2026-11-18,Departure,W6 7023,,Wizz Air,,,,2026-11-18 08:38+01:00,,,Departed
+BTS,2026-11-18,Departure,W6 7001,WZZ9XU,Wizz Air,,,,2026-11-18 06:33+01:00,,,Departed
+BTS,2026-11-18,Departure,FR 62,RYR14RD,Ryanair,,,,2026-11-18 08:36+00:00,,,Departed
+BTS,2026-11-18,Departure,W6 7033,WZZ663,Wizz Air,,,,2026-11-18 10:39+01:00,,,Departed
+BTS,2026-11-18,Departure,W6 7069,WZZ5354,Wizz Air,,,,2026-11-18 10:45+00:00,,,Departed
+BTS,2026-11-18,Departure,QS 479P,TVS479P,SmartWings,,,,2026-11-18 11:28+01:00,,,Departed
+BTS,2026-11-18,Departure,FR 1529,RYR6LC,Ryanair,,,,2026-11-18 12:31+01:00,,,Departed
+BTS,2026-11-18,Departure,EAT 391,EAT391,EAT,,,,2026-11-18 12:34+01:00,,,Departed
+BTS,2026-11-18,Departure,PC 412,PGT87XP,Pegasus,,,,2026-11-18 17:10+03:00,,,Departed
+BTS,2026-11-18,Departure,FR 3574,RYR3574,Ryanair,,,,2026-11-18 17:15+00:00,,,Departed
+BTS,2026-11-18,Departure,W6 2613,WZZ1TW,Wizz Air,,,,2026-11-18 21:20+04:00,,,Departed
+BTS,2026-11-18,Departure,W6 7003,WZZ234,Wizz Air,,,,2026-11-18 16:50+01:00,,,Departed
+BTS,2026-11-18,Departure,W4 3996,,Wizz Air Malta,,,,2026-11-18 18:35+02:00,,,Unknown
+BTS,2026-11-18,Departure,FR 4225,,Ryanair,,,,2026-11-18 18:02+01:00,,,Departed
+BTS,2026-11-18,Departure,W6 7061,,Wizz Air,,,,2026-11-18 20:40+02:00,,,Departed
+BTS,2026-11-18,Departure,W6 7035,WZZ633,Wizz Air,,,,2026-11-18 23:10+02:00,,,Departed
+BTS,2026-11-18,Departure,AAO 54,AAO54,AAO,,,,2026-11-18 23:08+01:00,,,Departed
+BTS,2026-11-18,Departure,QY 13J,BCS13J,EAT Leipzig,,,,2026-11-18 23:44+01:00,,,Departed

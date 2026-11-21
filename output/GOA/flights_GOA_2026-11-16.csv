@@ -1,0 +1,15 @@
+airport,date,direction,flight_number,callsign,airline,destination_iata,destination_name,departure_time,arrival_time,scheduled_time,revised_time,status
+GOA,2026-11-16,Departure,XZ 2424,AEZ2424,Aeroitalia,,,,2026-11-16 08:00+01:00,,,Departed
+GOA,2026-11-16,Departure,AZ 1380,ITY1380,ITA,,,,2026-11-16 08:00+01:00,,,Departed
+GOA,2026-11-16,Departure,V7 1664,VOE1664,Volotea,,,,2026-11-16 12:17+01:00,,,Departed
+GOA,2026-11-16,Departure,XZ 2037,AEZ2037,Aeroitalia,,,,2026-11-16 12:50+01:00,,,Unknown
+GOA,2026-11-16,Departure,AZ 1384,ITY1384,ITA,,,,2026-11-16 12:39+01:00,,,Departed
+GOA,2026-11-16,Departure,FR 9897,,Ryanair,,,,2026-11-16 14:10+01:00,,,Unknown
+GOA,2026-11-16,Departure,W4 5084,,Wizz Air Malta,,,,2026-11-16 15:30+01:00,,,Unknown
+GOA,2026-11-16,Departure,KL 1646,KLC1646,KLM,,,,2026-11-16 16:26+01:00,,,Departed
+GOA,2026-11-16,Departure,AZ 1386,ITY1386,ITA,,,,2026-11-16 16:30+01:00,,,Departed
+GOA,2026-11-16,Departure,FR 973,RYR42CL,Ryanair,,,,2026-11-16 17:18+00:00,,,Departed
+GOA,2026-11-16,Departure,XZ 2426,,Aeroitalia,,,,2026-11-16 21:40+01:00,,,Expected
+GOA,2026-11-16,Departure,FR 4430,,Ryanair,,,,2026-11-16 19:15+01:00,,,Unknown
+GOA,2026-11-16,Departure,AZ 1392,ITY1392,ITA,,,,2026-11-16 20:25+01:00,,,Expected
+GOA,2026-11-16,Departure,FR 5027,,Ryanair,,,,2026-11-16 23:55+01:00,,,Expected

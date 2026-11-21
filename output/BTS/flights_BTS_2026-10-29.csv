@@ -1,0 +1,49 @@
+airport,date,direction,flight_number,callsign,airline,destination_iata,destination_name,departure_time,arrival_time,scheduled_time,revised_time,status
+BTS,2026-10-29,Departure,QY 5534,BCS5534,EAT Leipzig,,,,2026-10-29 02:31+01:00,,,Departed
+BTS,2026-10-29,Departure,VJT 407,VJT407,VistaJet,,,,,,,Departed
+BTS,2026-10-29,Departure,W6 7065,,Wizz Air,,,,2026-10-29 12:20+04:00,,,Unknown
+BTS,2026-10-29,Departure,W6 7001,WZZ9XU,Wizz Air,,,,2026-10-29 06:37+01:00,,,Departed
+BTS,2026-10-29,Departure,FR 1529,RYR6LC,Ryanair,,,,2026-10-29 08:34+01:00,,,Departed
+BTS,2026-10-29,Departure,FR 6643,RYR5CD,Ryanair,,,,2026-10-29 08:26+00:00,,,Departed
+BTS,2026-10-29,Departure,W6 1424,WZZ31YS,Wizz Air,,,,2026-10-29 09:07+01:00,,,Departed
+BTS,2026-10-29,Departure,FR 1622,RYR1622,Ryanair,,,,2026-10-29 08:59+01:00,,,Departed
+BTS,2026-10-29,Departure,PNC 8J,PNC8J,Prince Aviation,,,,2026-10-29 09:08+00:00,,,Departed
+BTS,2026-10-29,Departure,FR 5776,RYR28SU,Ryanair,,,,2026-10-29 11:04+01:00,,,Departed
+BTS,2026-10-29,Departure,W6 7862,WZZ69,Wizz Air,,,,2026-10-29 14:30+04:00,,,Departed
+BTS,2026-10-29,Departure,CVK 7123,CVK7123,CVK,,,,,,,Departed
+BTS,2026-10-29,Departure,FR 3637,RYR2EP,Ryanair,,,,2026-10-29 10:05+01:00,,,Departed
+BTS,2026-10-29,Departure,W6 7021,WZZ984,Wizz Air,,,,2026-10-29 11:11+01:00,,,Departed
+BTS,2026-10-29,Departure,W6 7069,WZZ5354,Wizz Air,,,,2026-10-29 10:45+00:00,,,Departed
+BTS,2026-10-29,Departure,W6 7037,WZZ8WQ,Wizz Air,,,,2026-10-29 10:36+01:00,,,Departed
+BTS,2026-10-29,Departure,SKV 555,SKV555,SKV,,,,,,,Departed
+BTS,2026-10-29,Departure,FR 35,RYR472B,Ryanair,,,,2026-10-29 11:17+00:00,,,Departed
+BTS,2026-10-29,Departure,FR 5699,RYR37DK,Ryanair,,,,2026-10-29 13:02+01:00,,,Departed
+BTS,2026-10-29,Departure,OMNFT,OMNFT,Unknown/Private owner,,,,,,,Departed
+BTS,2026-10-29,Departure,SKV 555,SKV555,SKV,,,,,,,Departed
+BTS,2026-10-29,Departure,FR 62,RYR14RD,Ryanair,,,,2026-10-29 12:36+00:00,,,Departed
+BTS,2026-10-29,Departure,FR 2171,RYR6PJ,Ryanair,,,,2026-10-29 14:49+02:00,,,Departed
+BTS,2026-10-29,Departure,CVK 7030,CVK7030,CVK,,,,,,,Departed
+BTS,2026-10-29,Departure,OMBYD,OMBYD,Unknown/Private owner,,,,,,,Departed
+BTS,2026-10-29,Departure,FR 4225,,Ryanair,,,,2026-10-29 15:37+01:00,,,Departed
+BTS,2026-10-29,Departure,FR 4219,,Ryanair,,,,2026-10-29 16:59+00:00,,,Expected
+BTS,2026-10-29,Departure,FR 7109,RYR9QJ,Ryanair,,,,2026-10-29 15:42+01:00,,,Departed
+BTS,2026-10-29,Departure,W6 7005,WZZ8PQ,Wizz Air,,,,2026-10-29 16:30+02:00,,,Departed
+BTS,2026-10-29,Departure,W6 3LH,WZZ3LH,Wizz Air,,,,,,,Departed
+BTS,2026-10-29,Departure,FHLBF,FHLBF,Unknown/Private owner,,,,2026-10-29 17:28+01:00,,,Departed
+BTS,2026-10-29,Departure,W6 7045,,Wizz Air,,,,2026-10-29 17:05+01:00,,,Unknown
+BTS,2026-10-29,Departure,W6 7003,WZZ234,Wizz Air,,,,2026-10-29 16:30+01:00,,,Departed
+BTS,2026-10-29,Departure,FR 5733,RYR37LC,Ryanair,,,,2026-10-29 17:44+01:00,,,Departed
+BTS,2026-10-29,Departure,W6 7061,WZZ9WB,Wizz Air,,,,2026-10-29 21:03+02:00,,,Departed
+BTS,2026-10-29,Departure,FR 6831,RYR62FW,Ryanair,,,,2026-10-29 19:05+01:00,,,Departed
+BTS,2026-10-29,Departure,FR 5719,RYR75UD,Ryanair,,,,2026-10-29 20:12+01:00,,,Departed
+BTS,2026-10-29,Departure,W6 7011,WZZ3049,Wizz Air,,,,2026-10-29 20:03+01:00,,,Departed
+BTS,2026-10-29,Departure,W6 4244,,Wizz Air,,,,2026-10-29 19:55+01:00,,,Unknown
+BTS,2026-10-29,Departure,W6 7017,,Wizz Air,,,,,,,Unknown
+BTS,2026-10-29,Departure,FR 1745,RYR1YW,Ryanair,,,,2026-10-29 21:41+02:00,,,Departed
+BTS,2026-10-29,Departure,EAT 431,EAT431,EAT,,,,2026-10-29 19:53+01:00,,,Departed
+BTS,2026-10-29,Departure,W6 7013,WZZ895,Wizz Air,,,,2026-10-29 21:55+01:00,,,Departed
+BTS,2026-10-29,Departure,FR 6399,RYR2GT,Ryanair,,,,2026-10-29 22:25+01:00,,,Departed
+BTS,2026-10-29,Departure,FR 4223,RYR7VF,Ryanair,,,,2026-10-29 22:32+00:00,,,Departed
+BTS,2026-10-29,Departure,FR 7154,RYR1RN,Ryanair,,,,2026-10-29 23:45+01:00,,,Departed
+BTS,2026-10-29,Departure,QY 13J,BCS13J,EAT Leipzig,,,,2026-10-29 23:20+01:00,,,Departed
+BTS,2026-10-29,Departure,W6 4762,WZZ574,Wizz Air,,,,2026-10-30 00:26+01:00,,,Departed

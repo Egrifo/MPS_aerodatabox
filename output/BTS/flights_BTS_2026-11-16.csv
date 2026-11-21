@@ -1,0 +1,35 @@
+airport,date,direction,flight_number,callsign,airline,destination_iata,destination_name,departure_time,arrival_time,scheduled_time,revised_time,status
+BTS,2026-11-16,Departure,W6 7023,WZZ8994,Wizz Air,,,,2026-11-16 08:28+01:00,,,Departed
+BTS,2026-11-16,Departure,W6 7001,WZZ9XU,Wizz Air,,,,2026-11-16 06:35+01:00,,,Departed
+BTS,2026-11-16,Departure,FR 5761,RYR57UP,Ryanair,,,,2026-11-16 08:04+01:00,,,Departed
+BTS,2026-11-16,Departure,W6 7033,WZZ663,Wizz Air,,,,2026-11-16 07:52+01:00,,,Departed
+BTS,2026-11-16,Departure,FR 5733,RYR37LC,Ryanair,,,,2026-11-16 08:07+01:00,,,Departed
+BTS,2026-11-16,Departure,FR 1622,RYR1622,Ryanair,,,,2026-11-16 07:52+01:00,,,Departed
+BTS,2026-11-16,Departure,W6 7069,WZZ5354,Wizz Air,,,,2026-11-16 10:45+00:00,,,Departed
+BTS,2026-11-16,Departure,FR 5699,RYR37DK,Ryanair,,,,2026-11-16 13:19+01:00,,,Departed
+BTS,2026-11-16,Departure,FR 4223,RYR7VF,Ryanair,,,,2026-11-16 12:42+00:00,,,Departed
+BTS,2026-11-16,Departure,FR 5803,RYR631G,Ryanair,,,,2026-11-16 13:00+01:00,,,Departed
+BTS,2026-11-16,Departure,FR 3637,RYR2EP,Ryanair,,,,2026-11-16 13:30+01:00,,,Departed
+BTS,2026-11-16,Departure,FR 2171,RYR6PJ,Ryanair,,,,2026-11-16 15:05+02:00,,,Departed
+BTS,2026-11-16,Departure,CVK 7071,CVK7071,CVK,,,,,,,Departed
+BTS,2026-11-16,Departure,W6 7031,WZZ376,Wizz Air,,,,2026-11-16 15:16+01:00,,,Departed
+BTS,2026-11-16,Departure,FR 4225,RYR9QJ,Ryanair,,,,2026-11-16 15:30+01:00,,,Departed
+BTS,2026-11-16,Departure,FR 4219,RYR49CA,Ryanair,,,,2026-11-16 17:37+00:00,,,Departed
+BTS,2026-11-16,Departure,QU 4225,UTN4225,Azur Air Ukraine,,,,,,,Departed
+BTS,2026-11-16,Departure,W4 3996,WMT7DH,Wizz Air Malta,,,,2026-11-16 18:35+02:00,,,Departed
+BTS,2026-11-16,Departure,W6 7003,WZZ234,Wizz Air,,,,2026-11-16 16:29+01:00,,,Departed
+BTS,2026-11-16,Departure,W6 7025,WZZ4T,Wizz Air,,,,2026-11-16 19:13+01:00,,,Departed
+BTS,2026-11-16,Departure,FR 5776,RYR28SU,Ryanair,,,,2026-11-16 19:23+01:00,,,Departed
+BTS,2026-11-16,Departure,AXY 175W,AXY175W,AIR X Charter,,,,2026-11-16 18:02+01:00,,,Departed
+BTS,2026-11-16,Departure,W6 2617,WZZ25LY,Wizz Air,,,,2026-11-16 21:30+02:00,,,Departed
+BTS,2026-11-16,Departure,FR 35,RYR472B,Ryanair,,,,2026-11-16 18:23+00:00,,,Departed
+BTS,2026-11-16,Departure,FR 6524,RYR6524,Ryanair,,,,2026-11-16 20:01+01:00,,,Departed
+BTS,2026-11-16,Departure,PC 412,PGT87XP,Pegasus,,,,2026-11-16 22:00+03:00,,,Departed
+BTS,2026-11-16,Departure,FR 6831,RYR62FW,Ryanair,,,,2026-11-16 19:35+01:00,,,Departed
+BTS,2026-11-16,Departure,W6 7017,WZZ6ZT,Wizz Air,,,,2026-11-16 20:25+01:00,,,Departed
+BTS,2026-11-16,Departure,FR 1871,RYR57BQ,Ryanair,,,,2026-11-16 21:20+01:00,,,Departed
+BTS,2026-11-16,Departure,FR 763,RYR226J,Ryanair,,,,2026-11-16 21:15+01:00,,,Departed
+BTS,2026-11-16,Departure,W6 7035,WZZ633,Wizz Air,,,,2026-11-16 23:37+02:00,,,Departed
+BTS,2026-11-16,Departure,W6 7045,WZZ3LH,Wizz Air,,,,2026-11-16 22:20+01:00,,,Departed
+BTS,2026-11-16,Departure,FR 2315,RYR35JF,Ryanair,,,,2026-11-16 23:00+00:00,,,Departed
+BTS,2026-11-16,Departure,QY 13J,BCS13J,EAT Leipzig,,,,2026-11-16 23:27+01:00,,,Departed
